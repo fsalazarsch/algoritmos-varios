@@ -1,4 +1,3 @@
-
 import requests,urllib
 from bs4 import BeautifulSoup
 
@@ -7,9 +6,9 @@ url="https://portal.sidiv.registrocivil.cl/usuarios-portal/pages/DocumentRequest
 headers={"Content-Type":"application/x-www-form-urlencoded",
 "User-Agent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36"}
 
-Run="17115337-9"
+Run="18629465-3"
 docType="CEDULA" #{CEDULA,CEDULA_EXT,PASAPORTE_PG,PASAPORTE_DIPLOMATICO,PASAPORTE_OFICIAL}
-docNumber="101848386" #https://www.srcei.cl/PortalSIDIV/ayuda_documento.html
+docNumber="102203213" #https://www.srcei.cl/PortalSIDIV/ayuda_documento.html
 
 #cert=ssl.get_server_certificate(('portal.sidiv.registrocivil.cl',443),ssl_version=3)
 
@@ -26,4 +25,13 @@ data={"form":"form", "form:run":Run, "form:selectDocType":docType,
 "form:docNumber":docNumber,"form:buttonHidden":"","javax.faces.ViewState":viewState}
 
 r=s.post(url, data=data, cookies=cookie)
-print(r.content)
+#ahora parsemaos el contenido
+
+soup=BeautifulSoup(r.content,"html.parser")
+tabla =soup.find("table", {"id": "tableResult"})
+vigencia = tabla.find("td" , class_= "setWidthOfSecondColumn")
+if vigencia.get_text() == "Vigente":
+	print(True)
+else:
+	print(False)
+#print(r.content)
