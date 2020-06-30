@@ -1,0 +1,10 @@
+<biblioteca>
+  <libro id="1">
+    <titulo>Yo, robot</titulo>
+    <autor>Isaac Asimov</autor>
+  </libro>
+  <libro id="2">
+    <titulo>Estudio en Escarlata</titulo>
+    <autor>Arthur Conan Doyle</autor>
+  </libro>
+</biblioteca>
