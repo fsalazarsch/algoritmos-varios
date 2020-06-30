@@ -1,0 +1,14 @@
+<pedido>
+	<producto>
+		<nombre>chicha</nombre>
+		<cantidad>20</cantidad>
+		<precio>2000</precio>
+		<stock>50000</stock>
+	</producto>
+	<producto>
+		<nombre>durazno</nombre>
+		<cantidad>200</cantidad>
+		<precio>150</precio>
+		<stock>3000</stock>
+	</producto>
+</pedido>
