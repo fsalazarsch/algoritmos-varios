@@ -1,12 +1,4 @@
 [
-{
-"anverso" : "兎",
-"reverso" : "うさぎ",  
-"reverso2" : "conejo",  
-},
-{
-"anverso" : "鼠",
-"reverso" : "ねずみ、 ねず /n  ソ、 ショ",  
-"reverso2" : "rata, ratón",  
-}
+{"anverso" : "兎", "reverso" : "うさぎ",  "reverso2" : "conejo" },
+{"anverso" : "鼠", "reverso" : "ねずみ、 ねず /n  ソ、 ショ",  "reverso2" : "rata, ratón"}
 ]
