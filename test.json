@@ -1,671 +1,3342 @@
 [
-{"anverso":"会う","reverso":"あう","reverso2":"reunirse"},
-{"anverso":"青","reverso":"あお","reverso2":"azul"},
-{"anverso":"青い","reverso":"あおい","reverso2":"azul"},
-{"anverso":"赤","reverso":"あか","reverso2":"rojo"},
-{"anverso":"赤い","reverso":"あかい","reverso2":"rojo"},
-{"anverso":"明い","reverso":"あかるい","reverso2":"brillante"},
-{"anverso":"秋","reverso":"あき","reverso2":"otoño"},
-{"anverso":"開く","reverso":"あく","reverso2":"a abierto, para convertirse en abierto"},
-{"anverso":"開ける","reverso":"あける","reverso2":"abrir"},
-{"anverso":"上げる","reverso":"あげる","reverso2":"dar"},
-{"anverso":"朝","reverso":"あさ","reverso2":"Mañana"},
-{"anverso":"朝御飯","reverso":"あさごはん","reverso2":"desayuno"},
-{"anverso":null,"reverso":"あさって","reverso2":"Pasado mañana"},
-{"anverso":"足","reverso":"あし","reverso2":"pie pierna"},
-{"anverso":"明日","reverso":"あした","reverso2":"mañana"},
-{"anverso":null,"reverso":"あそこ","reverso2":"Por ahí"},
-{"anverso":"遊ぶ","reverso":"あそぶ","reverso2":"Para jugar, para hacer una visita"},
-{"anverso":"暖かい","reverso":"あたたかい","reverso2":"calentar"},
-{"anverso":"頭","reverso":"あたま","reverso2":"cabeza"},
-{"anverso":"新しい","reverso":"あたらしい","reverso2":"nuevo"},
-{"anverso":null,"reverso":"あちら","reverso2":"allí"},
-{"anverso":"暑い","reverso":"あつい","reverso2":"caliente"},
-{"anverso":"熱い","reverso":"あつい","reverso2":"caliente al tacto"},
-{"anverso":"厚い","reverso":"あつい","reverso2":"tipo, en el fondo, de espesor"},
-{"anverso":null,"reverso":"あっち","reverso2":"Por ahí"},
-{"anverso":"後","reverso":"あと","reverso2":"después"},
-{"anverso":null,"reverso":"あなた","reverso2":"tú"},
-{"anverso":"兄","reverso":"あに","reverso2":"(Humilde) hermano mayor"},
-{"anverso":"姉","reverso":"あね","reverso2":"(Humilde) hermana mayor"},
-{"anverso":null,"reverso":"あの","reverso2":"eso que está allá"},
-{"anverso":null,"reverso":"あの","reverso2":"um ..."},
-{"anverso":null,"reverso":"アパート","reverso2":"Departamento"},
-{"anverso":null,"reverso":"あびる","reverso2":"a bañarse, ducharse"},
-{"anverso":"危ない","reverso":"あぶない","reverso2":"peligroso"},
-{"anverso":"甘い","reverso":"あまい","reverso2":"dulce"},
-{"anverso":null,"reverso":"あまり","reverso2":"No muy"},
-{"anverso":"雨","reverso":"あめ","reverso2":"lluvia"},
-{"anverso":"飴","reverso":"あめ","reverso2":"dulce"},
-{"anverso":"洗う","reverso":"あらう","reverso2":"para lavar"},
-{"anverso":null,"reverso":"ある","reverso2":"siendo, haber (utilizado para objetos inanimados)"},
-{"anverso":"歩く","reverso":"あるく","reverso2":"caminar"},
-{"anverso":null,"reverso":"あれ","reverso2":"ese"},
-{"anverso":null,"reverso":"いい\/よい","reverso2":"bueno"},
-{"anverso":null,"reverso":"いいえ","reverso2":"No"},
-{"anverso":"言う","reverso":"いう","reverso2":"decir"},
-{"anverso":"家","reverso":"いえ","reverso2":"casa"},
-{"anverso":null,"reverso":"いかが","reverso2":"cómo"},
-{"anverso":"行く","reverso":"いく","reverso2":"ir"},
-{"anverso":null,"reverso":"いくつ","reverso2":"¿cuántos?, ¿qué edad?"},
-{"anverso":null,"reverso":"いくら","reverso2":"¿Cuánto cuesta?"},
-{"anverso":"池","reverso":"いけ","reverso2":"estanque"},
-{"anverso":"医者","reverso":"いしゃ","reverso2":"doctor en Medicina"},
-{"anverso":null,"reverso":"いす","reverso2":"silla"},
-{"anverso":"忙しい","reverso":"いそがしい","reverso2":"ocupado, irritado"},
-{"anverso":"痛い","reverso":"いたい","reverso2":"doloroso"},
-{"anverso":"一","reverso":"いち","reverso2":"uno"},
-{"anverso":"一日","reverso":"いちにち","reverso2":"primer día del mes"},
-{"anverso":null,"reverso":"いちばん","reverso2":"mejor, primero"},
-{"anverso":null,"reverso":"いつ","reverso2":"cuando"},
-{"anverso":"五日","reverso":"いつか","reverso2":"cinco días, quinto día"},
-{"anverso":"一緒","reverso":"いっしょ","reverso2":"juntos"},
-{"anverso":"五つ","reverso":"いつつ","reverso2":"cinco"},
-{"anverso":null,"reverso":"いつも","reverso2":"siempre"},
-{"anverso":"犬","reverso":"いぬ","reverso2":"perro"},
-{"anverso":"今","reverso":"いま","reverso2":"ahora"},
-{"anverso":"意味","reverso":"いみ","reverso2":"sentido"},
-{"anverso":"妹","reverso":"いもうと","reverso2":"(Humilde) hermana menor"},
-{"anverso":"嫌","reverso":"いや","reverso2":"desagradable"},
-{"anverso":"入口","reverso":"いりぐち","reverso2":"Entrada"},
-{"anverso":"居る","reverso":"いる","reverso2":"siendo, haber (utilizado para las personas y animales)"},
-{"anverso":"要る","reverso":"いる","reverso2":"necesitar"},
-{"anverso":"入れる","reverso":"いれる","reverso2":"para poner en"},
-{"anverso":"色","reverso":"いろ","reverso2":"color"},
-{"anverso":null,"reverso":"いろいろ","reverso2":"varios"},
-{"anverso":"上","reverso":"うえ","reverso2":"encima de"},
-{"anverso":"後ろ","reverso":"うしろ","reverso2":"detrás"},
-{"anverso":"薄い","reverso":"うすい","reverso2":"delgada, débil"},
-{"anverso":"歌","reverso":"うた","reverso2":"canción"},
-{"anverso":"歌う","reverso":"うたう","reverso2":"cantar"},
-{"anverso":"生まれる","reverso":"うまれる","reverso2":"nacer"},
-{"anverso":"海","reverso":"うみ","reverso2":"mar"},
-{"anverso":"売る","reverso":"うる","reverso2":"vender"},
-{"anverso":"煩い","reverso":"うるさい","reverso2":"ruidoso, molesto"},
-{"anverso":"上着","reverso":"うわぎ","reverso2":"chaqueta"},
-{"anverso":"絵","reverso":"え","reverso2":"imagen"},
-{"anverso":"映画","reverso":"えいが","reverso2":"película"},
-{"anverso":"映画館","reverso":"えいがかん","reverso2":"cine"},
-{"anverso":"英語","reverso":"えいご","reverso2":"idioma en Inglés"},
-{"anverso":null,"reverso":"ええ","reverso2":"si"},
-{"anverso":"駅","reverso":"えき","reverso2":"estación"},
-{"anverso":null,"reverso":"エレベーター","reverso2":"ascensor"},
-{"anverso":"鉛筆","reverso":"えんぴつ","reverso2":"lápiz"},
-{"anverso":null,"reverso":"おいしい","reverso2":"delicioso"},
-{"anverso":"多い","reverso":"おおい","reverso2":"muchos"},
-{"anverso":"大きい","reverso":"おおきい","reverso2":"grande"},
-{"anverso":"大きな","reverso":"おおきな","reverso2":"grande"},
-{"anverso":"大勢","reverso":"おおぜい","reverso2":"gran número de personas"},
-{"anverso":"お母さん","reverso":"おかあさん","reverso2":"(Honorable) madre"},
-{"anverso":"お菓子","reverso":"おかし","reverso2":"dulces, caramelos"},
-{"anverso":"お金","reverso":"おかね","reverso2":"dinero"},
-{"anverso":"起きる","reverso":"おきる","reverso2":"levantarse"},
-{"anverso":"置く","reverso":"おく","reverso2":"poner"},
-{"anverso":"奥さん","reverso":"おくさん","reverso2":"(Honorable) esposa"},
-{"anverso":"お酒","reverso":"おさけ","reverso2":"alcohol, vino de arroz"},
-{"anverso":"お皿","reverso":"おさら","reverso2":"placa, plato"},
-{"anverso":"伯父\/叔父","reverso":"おじいさん","reverso2":"abuelo, jubilado macho"},
-{"anverso":"教える","reverso":"おしえる","reverso2":"para enseñar, para contar"},
-{"anverso":"伯父\/叔父","reverso":"おじさん","reverso2":"tío, caballero de mediana edad"},
-{"anverso":"押す","reverso":"おす","reverso2":"para empujar, para estampar algo"},
-{"anverso":"遅い","reverso":"おそい","reverso2":"tarde, lenta"},
-{"anverso":"お茶","reverso":"おちゃ","reverso2":"té verde"},
-{"anverso":"お手洗い","reverso":"おてあらい","reverso2":"baño"},
-{"anverso":"お父さん","reverso":"おとうさん","reverso2":"(Honorable) padre"},
-{"anverso":"弟","reverso":"おとうと","reverso2":"hermano más joven"},
-{"anverso":"男","reverso":"おとこ","reverso2":"Hombre"},
-{"anverso":"男の子","reverso":"おとこのこ","reverso2":"Niño"},
-{"anverso":"一昨日","reverso":"おととい","reverso2":"Anteayer"},
-{"anverso":"一昨年","reverso":"おととし","reverso2":"años antes de la última"},
-{"anverso":"大人","reverso":"おとな","reverso2":"Adulto"},
-{"anverso":null,"reverso":"おなか","reverso2":"estómago"},
-{"anverso":"同じ","reverso":"おなじ","reverso2":"mismo"},
-{"anverso":"お兄さん","reverso":"おにいさん","reverso2":"(Honorable) hermano mayor"},
-{"anverso":"お姉さん","reverso":"おねえさん","reverso2":"(Honorable) hermana mayor"},
-{"anverso":null,"reverso":"おばあさん","reverso2":"abuela, de sexo femenino mayor en el ciudadano"},
-{"anverso":"伯母さん\/叔母さん","reverso":"おばさん","reverso2":"Tía"},
-{"anverso":"お風呂","reverso":"おふろ","reverso2":"Bañera"},
-{"anverso":"お弁当","reverso":"おべんとう","reverso2":"almuerzo depósitos"},
-{"anverso":"覚える","reverso":"おぼえる","reverso2":"recordar"},
-{"anverso":null,"reverso":"おまわりさん","reverso2":"término amigable para el policía"},
-{"anverso":"重い","reverso":"おもい","reverso2":"Pesado"},
-{"anverso":null,"reverso":"おもしろい","reverso2":"Interesante"},
-{"anverso":"泳ぐ","reverso":"およぐ","reverso2":"nadar"},
-{"anverso":"降りる","reverso":"おりる","reverso2":"bajar, descender"},
-{"anverso":"終る","reverso":"おわる","reverso2":"para terminar"},
-{"anverso":"音楽","reverso":"おんがく","reverso2":"Música"},
-{"anverso":"女","reverso":"おんな","reverso2":"Mujer"},
-{"anverso":"女の子","reverso":"おんなのこ","reverso2":"Niña"},
-{"anverso":"外国","reverso":"がいこく","reverso2":"país extranjero"},
-{"anverso":"外国人","reverso":"がいこくじん","reverso2":"Extranjero"},
-{"anverso":"会社","reverso":"かいしゃ","reverso2":"Empresa"},
-{"anverso":"階段","reverso":"かいだん","reverso2":"Escalera"},
-{"anverso":"買い物","reverso":"かいもの","reverso2":"Compras"},
-{"anverso":"買う","reverso":"かう","reverso2":"comprar"},
-{"anverso":"返す","reverso":"かえす","reverso2":"devolver algo"},
-{"anverso":"帰る","reverso":"かえる","reverso2":"volver"},
-{"anverso":null,"reverso":"かかる","reverso2":"tomar tiempo o dinero"},
-{"anverso":null,"reverso":"かぎ","reverso2":"Llave"},
-{"anverso":"書く","reverso":"かく","reverso2":"escribir"},
-{"anverso":"学生","reverso":"がくせい","reverso2":"Estudiante"},
-{"anverso":null,"reverso":"かける","reverso2":"llamar por teléfono"},
-{"anverso":"傘","reverso":"かさ","reverso2":"Paraguas"},
-{"anverso":"貸す","reverso":"かす","reverso2":"a prestar"},
-{"anverso":"風","reverso":"かぜ","reverso2":"Viento"},
-{"anverso":"風邪","reverso":"かぜ","reverso2":"un resfriado"},
-{"anverso":"家族","reverso":"かぞく","reverso2":"Familia"},
-{"anverso":"方","reverso":"かた","reverso2":"persona, forma de hacer"},
-{"anverso":"学校","reverso":"がっこう","reverso2":"Colegio"},
-{"anverso":null,"reverso":"カップ","reverso2":"taza"},
-{"anverso":"家庭","reverso":"かてい","reverso2":"Casa"},
-{"anverso":"角","reverso":"かど","reverso2":"una esquina"},
-{"anverso":null,"reverso":"かばん","reverso2":"bolsa, cesta"},
-{"anverso":"花瓶","reverso":"かびん","reverso2":"un jarrón"},
-{"anverso":"紙","reverso":"かみ","reverso2":"papel"},
-{"anverso":null,"reverso":"カメラ","reverso2":"cámara"},
-{"anverso":"火曜日","reverso":"かようび","reverso2":"martes"},
-{"anverso":"辛い","reverso":"からい","reverso2":"Picante"},
-{"anverso":"体","reverso":"からだ","reverso2":"Cuerpo"},
-{"anverso":"借りる","reverso":"かりる","reverso2":"para tomar prestado"},
-{"anverso":"軽い","reverso":"かるい","reverso2":"Ligero"},
-{"anverso":null,"reverso":"カレー","reverso2":"Curry"},
-{"anverso":null,"reverso":"カレンダー","reverso2":"calendario"},
-{"anverso":"川\/河","reverso":"かわ","reverso2":"Río"},
-{"anverso":null,"reverso":"かわいい","reverso2":"Linda"},
-{"anverso":"漢字","reverso":"かんじ","reverso2":"personaje chino"},
-{"anverso":"木","reverso":"き","reverso2":"árbol, madera"},
-{"anverso":"黄色","reverso":"きいろ","reverso2":"amarillo"},
-{"anverso":"黄色い","reverso":"きいろい","reverso2":"amarillo"},
-{"anverso":"消える","reverso":"きえる","reverso2":"desaparecer"},
-{"anverso":"聞く","reverso":"きく","reverso2":"Para escuchar, escuchar, preguntar"},
-{"anverso":"北","reverso":"きた","reverso2":"norte"},
-{"anverso":null,"reverso":"ギター","reverso2":"Guitarra"},
-{"anverso":"汚い","reverso":"きたない","reverso2":"Sucio"},
-{"anverso":"喫茶店","reverso":"きっさてん","reverso2":"salón de café"},
-{"anverso":"切手","reverso":"きって","reverso2":"sello de correos"},
-{"anverso":"切符","reverso":"きっぷ","reverso2":"Boleto"},
-{"anverso":"昨日","reverso":"きのう","reverso2":"Ayer"},
-{"anverso":"九","reverso":"きゅう \/ く","reverso2":"Nueve"},
-{"anverso":"牛肉","reverso":"ぎゅうにく","reverso2":"Carne de vaca"},
-{"anverso":"牛乳","reverso":"ぎゅうにゅう","reverso2":"Leche"},
-{"anverso":"今日","reverso":"きょう","reverso2":"Hoy"},
-{"anverso":"教室","reverso":"きょうしつ","reverso2":"Aula"},
-{"anverso":"兄弟","reverso":"きょうだい","reverso2":"(humilde) hermanos"},
-{"anverso":"去年","reverso":"きょねん","reverso2":"el año pasado"},
-{"anverso":"嫌い","reverso":"きらい","reverso2":"Odio"},
-{"anverso":"切る","reverso":"きる","reverso2":"cortar"},
-{"anverso":"着る","reverso":"きる","reverso2":"para poner en el de los hombros abajo"},
-{"anverso":null,"reverso":"きれい","reverso2":"bonita, limpia"},
-{"anverso":null,"reverso":"キロ\/キログラム","reverso2":"Kilogramo"},
-{"anverso":null,"reverso":"キロ\/キロメートル","reverso2":"Kilómetro"},
-{"anverso":"銀行","reverso":"ぎんこう","reverso2":"Banco"},
-{"anverso":"金曜日","reverso":"きんようび","reverso2":"viernes"},
-{"anverso":"薬","reverso":"くすり","reverso2":"medicamento"},
-{"anverso":null,"reverso":"ください","reverso2":"Por favor"},
-{"anverso":"果物","reverso":"くだもの","reverso2":"Fruta"},
-{"anverso":"口","reverso":"くち","reverso2":"la boca, la apertura"},
-{"anverso":"靴","reverso":"くつ","reverso2":"Zapatos"},
-{"anverso":"靴下","reverso":"くつした","reverso2":"Calcetines"},
-{"anverso":"国","reverso":"くに","reverso2":"País"},
-{"anverso":"曇り","reverso":"くもり","reverso2":"clima nublado"},
-{"anverso":"曇る","reverso":"くもる","reverso2":"a convertirse nublado, se oscurezcan"},
-{"anverso":"暗い","reverso":"くらい","reverso2":"Melancólico"},
-{"anverso":null,"reverso":"クラス","reverso2":"Clase"},
-{"anverso":null,"reverso":"グラム","reverso2":"Gramo"},
-{"anverso":"来る","reverso":"くる","reverso2":"venir"},
-{"anverso":"車","reverso":"くるま","reverso2":"coche, vehículo"},
-{"anverso":"黒","reverso":"くろ","reverso2":"Negro"},
-{"anverso":"黒い","reverso":"くろい","reverso2":"negro"},
-{"anverso":"警官","reverso":"けいかん","reverso2":"policía"},
-{"anverso":"今朝","reverso":"けさ","reverso2":"esta mañana"},
-{"anverso":"消す","reverso":"けす","reverso2":"Para borrar, desactivar la alimentación"},
-{"anverso":"結構","reverso":"けっこう","reverso2":"espléndida, lo suficientemente"},
-{"anverso":"結婚","reverso":"けっこん","reverso2":"Matrimonio"},
-{"anverso":"月曜日","reverso":"げつようび","reverso2":"lunes"},
-{"anverso":"玄関","reverso":"げんかん","reverso2":"hall de entrada"},
-{"anverso":"元気","reverso":"げんき","reverso2":"la salud, la vitalidad"},
-{"anverso":"五","reverso":"ご","reverso2":"Cinco"},
-{"anverso":"公園","reverso":"こうえん","reverso2":"Parque"},
-{"anverso":"交差点","reverso":"こうさてん","reverso2":"intersección"},
-{"anverso":"紅茶","reverso":"こうちゃ","reverso2":"té negro"},
-{"anverso":"交番","reverso":"こうばん","reverso2":"caja de policia"},
-{"anverso":"声","reverso":"こえ","reverso2":"Voz"},
-{"anverso":null,"reverso":"コート","reverso2":"abrigo, pista de tenis"},
-{"anverso":null,"reverso":"コーヒー","reverso2":"café"},
-{"anverso":null,"reverso":"ここ","reverso2":"aquí"},
-{"anverso":"午後","reverso":"ごご","reverso2":"tarde"},
-{"anverso":"九日","reverso":"ここのか","reverso2":"nueve días, noveno día"},
-{"anverso":"九つ","reverso":"ここのつ","reverso2":"Nueve"},
-{"anverso":"午前","reverso":"ごぜん","reverso2":"Mañana"},
-{"anverso":"答える","reverso":"こたえる","reverso2":"contestar"},
-{"anverso":null,"reverso":"こちら","reverso2":"esta persona o camino"},
-{"anverso":null,"reverso":"こっち","reverso2":"esta persona o camino"},
-{"anverso":null,"reverso":"コップ","reverso2":"un vaso"},
-{"anverso":"今年","reverso":"ことし","reverso2":"este año"},
-{"anverso":"言葉","reverso":"ことば","reverso2":"palabra, el lenguaje"},
-{"anverso":"子供","reverso":"こども","reverso2":"Niño"},
-{"anverso":null,"reverso":"この","reverso2":"Esta"},
-{"anverso":"御飯","reverso":"ごはん","reverso2":"arroz cocido, harina de"},
-{"anverso":null,"reverso":"コピーする","reverso2":"copiar"},
-{"anverso":"困る","reverso":"こまる","reverso2":"estar preocupado"},
-{"anverso":null,"reverso":"これ","reverso2":"Esta"},
-{"anverso":"今月","reverso":"こんげつ","reverso2":"este mes"},
-{"anverso":"今週","reverso":"こんしゅう","reverso2":"esta semana"},
-{"anverso":null,"reverso":"こんな","reverso2":"Tal"},
-{"anverso":"今晩","reverso":"こんばん","reverso2":"esta noche"},
-{"anverso":null,"reverso":"さあ","reverso2":"bien…"},
-{"anverso":"財布","reverso":"さいふ","reverso2":"Billetera"},
-{"anverso":"魚","reverso":"さかな","reverso2":"Pez"},
-{"anverso":"先","reverso":"さき","reverso2":"el futuro, previa"},
-{"anverso":"咲く","reverso":"さく","reverso2":"a florecer"},
-{"anverso":"作文","reverso":"さくぶん","reverso2":"composición, la escritura"},
-{"anverso":"差す","reverso":"さす","reverso2":"para estirar las manos, para levantar un paraguas"},
-{"anverso":"雑誌","reverso":"ざっし","reverso2":"Revista"},
-{"anverso":"砂糖","reverso":"さとう","reverso2":"Azúcar"},
-{"anverso":"寒い","reverso":"さむい","reverso2":"Frío"},
-{"anverso":"さ来年","reverso":"さらいねん","reverso2":"años después de la próxima"},
-{"anverso":"三","reverso":"さん","reverso2":"Tres"},
-{"anverso":"散歩","reverso":"さんぽする","reverso2":"para pasear"},
-{"anverso":"四","reverso":"し \/ よん","reverso2":"cuatro"},
-{"anverso":"塩","reverso":"しお","reverso2":"sal"},
-{"anverso":null,"reverso":"しかし","reverso2":"sin embargo"},
-{"anverso":"時間","reverso":"じかん","reverso2":"Hora"},
-{"anverso":"仕事","reverso":"しごと","reverso2":"Trabajo"},
-{"anverso":"辞書","reverso":"じしょ","reverso2":"Diccionario"},
-{"anverso":"静か","reverso":"しずか","reverso2":"Tranquilo"},
-{"anverso":"下","reverso":"した","reverso2":"Abajo"},
-{"anverso":"七","reverso":"しち \/ なな","reverso2":"Siete"},
-{"anverso":"質問","reverso":"しつもん","reverso2":"Pregunta"},
-{"anverso":"自転車","reverso":"じてんしゃ","reverso2":"Bicicleta"},
-{"anverso":"自動車","reverso":"じどうしゃ","reverso2":"Automóvil"},
-{"anverso":"死ぬ","reverso":"しぬ","reverso2":"morir"},
-{"anverso":"字引","reverso":"じびき","reverso2":"Diccionario"},
-{"anverso":"自分","reverso":"じぶん","reverso2":"Uno mismo"},
-{"anverso":"閉まる","reverso":"しまる","reverso2":"a cerrar, a ser cerrado"},
-{"anverso":"閉める","reverso":"しめる","reverso2":"a cerca de algo"},
-{"anverso":"締める","reverso":"しめる","reverso2":"para atar"},
-{"anverso":null,"reverso":"じゃ\/じゃあ","reverso2":"bien entonces…"},
-{"anverso":"写真","reverso":"しゃしん","reverso2":"fotografía"},
-{"anverso":null,"reverso":"シャツ","reverso2":"Camisa"},
-{"anverso":null,"reverso":"シャワー","reverso2":"Ducha"},
-{"anverso":"十","reverso":"じゅう とお","reverso2":"Diez"},
-{"anverso":"授業","reverso":"じゅぎょう","reverso2":"lección, el trabajo de clase"},
-{"anverso":"宿題","reverso":"しゅくだい","reverso2":"deberes"},
-{"anverso":"上手","reverso":"じょうず","reverso2":"Hábil"},
-{"anverso":"丈夫","reverso":"じょうぶ","reverso2":"fuerte, durable"},
-{"anverso":null,"reverso":"しょうゆ","reverso2":"salsa de soja"},
-{"anverso":"食堂","reverso":"しょくどう","reverso2":"comedor"},
-{"anverso":"知る","reverso":"しる","reverso2":"saber"},
-{"anverso":"白","reverso":"しろ","reverso2":"Blanco"},
-{"anverso":"白い","reverso":"しろい","reverso2":"Blanco"},
-{"anverso":"新聞","reverso":"しんぶん","reverso2":"periódico"},
-{"anverso":"水曜日","reverso":"すいようび","reverso2":"miércoles"},
-{"anverso":"吸う","reverso":"すう","reverso2":"al humo, a chupar"},
-{"anverso":null,"reverso":"スカート","reverso2":"Falda"},
-{"anverso":"好き","reverso":"すき","reverso2":"Simpático"},
-{"anverso":"少ない","reverso":"すくない","reverso2":"unos pocos"},
-{"anverso":null,"reverso":"すぐに","reverso2":"Instantáneamente"},
-{"anverso":"少し","reverso":"すこし","reverso2":"Pocos"},
-{"anverso":"涼しい","reverso":"すずしい","reverso2":"Refrescante"},
-{"anverso":null,"reverso":"ストーブ","reverso2":"Calentador"},
-{"anverso":null,"reverso":"スプーン","reverso2":"Cuchara"},
-{"anverso":null,"reverso":"スポーツ","reverso2":"Deporte"},
-{"anverso":null,"reverso":"ズボン","reverso2":"Pantalones"},
-{"anverso":"住む","reverso":"すむ","reverso2":"Para vivir en"},
-{"anverso":null,"reverso":"スリッパ","reverso2":"Zapatillas"},
-{"anverso":null,"reverso":"する","reverso2":"que hacer"},
-{"anverso":"座る","reverso":"すわる","reverso2":"sentarse"},
-{"anverso":"背","reverso":"せ","reverso2":"la altura, la estatura"},
-{"anverso":"生徒","reverso":"せいと","reverso2":"Alumno"},
-{"anverso":null,"reverso":"セーター","reverso2":"suéter, puente"},
-{"anverso":null,"reverso":"せっけん","reverso2":"Economía"},
-{"anverso":"背広","reverso":"せびろ","reverso2":"Traje de negocios"},
-{"anverso":"狭い","reverso":"せまい","reverso2":"Estrecho"},
-{"anverso":null,"reverso":"ゼロ","reverso2":"Cero"},
-{"anverso":"千","reverso":"せん","reverso2":"Mil"},
-{"anverso":"先月","reverso":"せんげつ","reverso2":"el mes pasado"},
-{"anverso":"先週","reverso":"せんしゅう","reverso2":"la semana pasada"},
-{"anverso":"先生","reverso":"せんせい","reverso2":"maestro, médico"},
-{"anverso":"洗濯","reverso":"せんたく","reverso2":"Lavado"},
-{"anverso":"全部","reverso":"ぜんぶ","reverso2":"Todas"},
-{"anverso":"掃除","reverso":"そうじする","reverso2":"limpiar, barrer"},
-{"anverso":null,"reverso":"そうして\/そして","reverso2":"Y"},
-{"anverso":null,"reverso":"そこ","reverso2":"ese lugar"},
-{"anverso":null,"reverso":"そちら","reverso2":"Por ahí"},
-{"anverso":null,"reverso":"そっち","reverso2":"Por ahí"},
-{"anverso":"外","reverso":"そと","reverso2":"Fuera de"},
-{"anverso":null,"reverso":"その","reverso2":"Ese"},
-{"anverso":null,"reverso":"そば","reverso2":"cerca, junto"},
-{"anverso":"空","reverso":"そら","reverso2":"Cielo"},
-{"anverso":null,"reverso":"それ","reverso2":"ese"},
-{"anverso":null,"reverso":"それから","reverso2":"después de esto"},
-{"anverso":null,"reverso":"それでは","reverso2":"en esa situación"},
-{"anverso":"大学","reverso":"だいがく","reverso2":"Universidad"},
-{"anverso":"大使館","reverso":"たいしかん","reverso2":"embajada"},
-{"anverso":"大丈夫","reverso":"だいじょうぶ","reverso2":"todo bien"},
-{"anverso":"大好き","reverso":"だいすき","reverso2":"a ser muy agradable"},
-{"anverso":"大切","reverso":"たいせつ","reverso2":"importante"},
-{"anverso":"台所","reverso":"だいどころ","reverso2":"cocina"},
-{"anverso":null,"reverso":"たいへん","reverso2":"muy"},
-{"anverso":null,"reverso":"たいへん","reverso2":"situación difícil"},
-{"anverso":"高い","reverso":"たかい","reverso2":"de altura, caro"},
-{"anverso":null,"reverso":"たくさん","reverso2":"muchos"},
-{"anverso":null,"reverso":"タクシー","reverso2":"taxi"},
-{"anverso":"出す","reverso":"だす","reverso2":"para poner afuera"},
-{"anverso":"立つ","reverso":"たつ","reverso2":"reposar"},
-{"anverso":null,"reverso":"たて","reverso2":"altura longitud"},
-{"anverso":"建物","reverso":"たてもの","reverso2":"edificio"},
-{"anverso":"楽しい","reverso":"たのしい","reverso2":"agradable"},
-{"anverso":"頼む","reverso":"たのむ","reverso2":"preguntar"},
-{"anverso":null,"reverso":"たばこ","reverso2":"tabaco, cigarrillos"},
-{"anverso":null,"reverso":"たぶん","reverso2":"probablemente"},
-{"anverso":"食べ物","reverso":"たべもの","reverso2":"comida"},
-{"anverso":"食べる","reverso":"たべる","reverso2":"comer"},
-{"anverso":"卵","reverso":"たまご","reverso2":"huevo"},
-{"anverso":"誰","reverso":"だれ","reverso2":"OMS"},
-{"anverso":"誰","reverso":"だれか","reverso2":"alguien"},
-{"anverso":"誕生日","reverso":"たんじょうび","reverso2":"cumpleaños"},
-{"anverso":null,"reverso":"だんだん","reverso2":"gradualmente"},
-{"anverso":"小さい","reverso":"ちいさい","reverso2":"pequeño"},
-{"anverso":"小さな","reverso":"ちいさな","reverso2":"pequeño"},
-{"anverso":"近い","reverso":"ちかい","reverso2":"cerca"},
-{"anverso":"違う","reverso":"ちがう","reverso2":"diferir"},
-{"anverso":"近く","reverso":"ちかく","reverso2":"cerca"},
-{"anverso":"地下鉄","reverso":"ちかてつ","reverso2":"tren subterráneo"},
-{"anverso":"地図","reverso":"ちず","reverso2":"mapa"},
-{"anverso":"茶色","reverso":"ちゃいろ","reverso2":"marrón"},
-{"anverso":null,"reverso":"ちゃわん","reverso2":"bol de arroz"},
-{"anverso":null,"reverso":"ちょうど","reverso2":"exactamente"},
-{"anverso":null,"reverso":"ちょっと","reverso2":"algo"},
-{"anverso":"一日","reverso":"ついたち","reverso2":"primer día del mes"},
-{"anverso":"使う","reverso":"つかう","reverso2":"usar"},
-{"anverso":"疲れる","reverso":"つかれる","reverso2":"cansarse"},
-{"anverso":"次","reverso":"つぎ","reverso2":"siguiente"},
-{"anverso":"着く","reverso":"つく","reverso2":"para llegar a"},
-{"anverso":"机","reverso":"つくえ","reverso2":"escritorio"},
-{"anverso":"作る","reverso":"つくる","reverso2":"para hacer"},
-{"anverso":null,"reverso":"つける","reverso2":"encender"},
-{"anverso":"勤める","reverso":"つとめる","reverso2":"a trabajar para alguien"},
-{"anverso":null,"reverso":"つまらない","reverso2":"aburrido"},
-{"anverso":"冷たい","reverso":"つめたい","reverso2":"fría al tacto"},
-{"anverso":"強い","reverso":"つよい","reverso2":"poderoso"},
-{"anverso":"手","reverso":"て","reverso2":"mano"},
-{"anverso":null,"reverso":"テープ","reverso2":"cinta"},
-{"anverso":null,"reverso":"テーブル","reverso2":"mesa"},
-{"anverso":null,"reverso":"テープレコーダー","reverso2":"grabadora"},
-{"anverso":"出かける","reverso":"でかける","reverso2":"salir"},
-{"anverso":"手紙","reverso":"てがみ","reverso2":"letra"},
-{"anverso":null,"reverso":"できる","reverso2":"ser capaz de"},
-{"anverso":"出口","reverso":"でぐち","reverso2":"salida"},
-{"anverso":null,"reverso":"テスト","reverso2":"prueba"},
-{"anverso":null,"reverso":"では","reverso2":"con ese..."},
-{"anverso":null,"reverso":"デパート","reverso2":"grandes almacenes"},
-{"anverso":null,"reverso":"でも","reverso2":"pero"},
-{"anverso":"出る","reverso":"でる","reverso2":"a aparecer, para dejar"},
-{"anverso":null,"reverso":"テレビ","reverso2":"televisión"},
-{"anverso":"天気","reverso":"てんき","reverso2":"clima"},
-{"anverso":"電気","reverso":"でんき","reverso2":"electricidad, luz eléctrica"},
-{"anverso":"電車","reverso":"でんしゃ","reverso2":"tren electrico"},
-{"anverso":"電話","reverso":"でんわ","reverso2":"teléfono"},
-{"anverso":"戸","reverso":"と","reverso2":"puerta de estilo japonés"},
-{"anverso":null,"reverso":"ドア","reverso2":"puerta de estilo occidental"},
-{"anverso":null,"reverso":"トイレ","reverso2":"baño"},
-{"anverso":null,"reverso":"どう","reverso2":"cómo, de qué manera"},
-{"anverso":null,"reverso":"どうして","reverso2":"por qué razón"},
-{"anverso":null,"reverso":"どうぞ","reverso2":"Por favor"},
-{"anverso":"動物","reverso":"どうぶつ","reverso2":"animal"},
-{"anverso":null,"reverso":"どうも","reverso2":"Gracias"},
-{"anverso":"遠い","reverso":"とおい","reverso2":"lejos"},
-{"anverso":"十日","reverso":"とおか","reverso2":"diez días, el día décimo"},
-{"anverso":"時々","reverso":"ときどき","reverso2":"a veces"},
-{"anverso":"時計","reverso":"とけい","reverso2":"reloj, reloj"},
-{"anverso":null,"reverso":"どこ","reverso2":"dónde"},
-{"anverso":"所","reverso":"ところ","reverso2":"sitio"},
-{"anverso":"年","reverso":"とし","reverso2":"año"},
-{"anverso":"図書館","reverso":"としょかん","reverso2":"biblioteca"},
-{"anverso":null,"reverso":"どちら","reverso2":"cuál de dos"},
-{"anverso":null,"reverso":"どっち","reverso2":"cual"},
-{"anverso":null,"reverso":"とても","reverso2":"muy"},
-{"anverso":null,"reverso":"どなた","reverso2":"OMS"},
-{"anverso":"隣","reverso":"となり","reverso2":"la puerta al lado de"},
-{"anverso":null,"reverso":"どの","reverso2":"cual"},
-{"anverso":"飛ぶ","reverso":"とぶ","reverso2":"para volar, saltar"},
-{"anverso":"止まる","reverso":"とまる","reverso2":"a llegado a su fin"},
-{"anverso":"友達","reverso":"ともだち","reverso2":"amigo"},
-{"anverso":"土曜日","reverso":"どようび","reverso2":"sábado"},
-{"anverso":"鳥","reverso":"とり","reverso2":"pájaro"},
-{"anverso":"とり肉","reverso":"とりにく","reverso2":"carne de pollo"},
-{"anverso":"取る","reverso":"とる","reverso2":"tomar algo"},
-{"anverso":"撮る","reverso":"とる","reverso2":"para tomar una foto o grabar una película"},
-{"anverso":null,"reverso":"どれ","reverso2":"que (de tres o más)"},
-{"anverso":null,"reverso":"ナイフ","reverso2":"cuchillo"},
-{"anverso":"中","reverso":"なか","reverso2":"medio"},
-{"anverso":"長い","reverso":"ながい","reverso2":"largo"},
-{"anverso":"鳴く","reverso":"なく","reverso2":"el ruido de los animales. a chirp, rugido o croak etc."},
-{"anverso":"無くす","reverso":"なくす","reverso2":"a perder algo"},
-{"anverso":null,"reverso":"なぜ","reverso2":"por qué"},
-{"anverso":"夏","reverso":"なつ","reverso2":"verano"},
-{"anverso":"夏休み","reverso":"なつやすみ","reverso2":"vacaciones de verano"},
-{"anverso":null,"reverso":"など","reverso2":"etcétera"},
-{"anverso":"七つ","reverso":"ななつ","reverso2":"Siete"},
-{"anverso":"七日","reverso":"なのか","reverso2":"siete días, el séptimo día"},
-{"anverso":"名前","reverso":"なまえ","reverso2":"nombre"},
-{"anverso":"習う","reverso":"ならう","reverso2":"aprender"},
-{"anverso":"並ぶ","reverso":"ならぶ","reverso2":"a la línea de arriba, para estar en una línea"},
-{"anverso":"並べる","reverso":"ならべる","reverso2":"para alinear, para establecer"},
-{"anverso":null,"reverso":"なる","reverso2":"convertirse"},
-{"anverso":"何","reverso":"なん\/なに","reverso2":"qué"},
-{"anverso":"二","reverso":"に","reverso2":"dos"},
-{"anverso":"賑やか","reverso":"にぎやか","reverso2":"animada, ocupada"},
-{"anverso":"肉","reverso":"にく","reverso2":"carne"},
-{"anverso":"西","reverso":"にし","reverso2":"Oeste"},
-{"anverso":"日曜日","reverso":"にちようび","reverso2":"domingo"},
-{"anverso":"荷物","reverso":"にもつ","reverso2":"equipaje"},
-{"anverso":null,"reverso":"ニュース","reverso2":"Noticias"},
-{"anverso":"庭","reverso":"にわ","reverso2":"jardín"},
-{"anverso":"脱ぐ","reverso":"ぬぐ","reverso2":"quitarse la ropa"},
-{"anverso":"温い","reverso":"ぬるい","reverso2":"tibia"},
-{"anverso":null,"reverso":"ネクタイ","reverso2":"lazo, corbata"},
-{"anverso":"猫","reverso":"ねこ","reverso2":"gato"},
-{"anverso":"寝る","reverso":"ねる","reverso2":"para ir a la cama, a dormir"},
-{"anverso":null,"reverso":"ノート","reverso2":"cuaderno, libro de ejercicios"},
-{"anverso":"登る","reverso":"のぼる","reverso2":"escalar"},
-{"anverso":"飲み物","reverso":"のみもの","reverso2":"una bebida"},
-{"anverso":"飲む","reverso":"のむ","reverso2":"beber"},
-{"anverso":"乗る","reverso":"のる","reverso2":"para conseguir en, al montar"},
-{"anverso":"歯","reverso":"は","reverso2":"diente"},
-{"anverso":null,"reverso":"パーティー","reverso2":"fiesta"},
-{"anverso":null,"reverso":"はい","reverso2":"si"},
-{"anverso":"灰皿","reverso":"はいざら","reverso2":"cenicero"},
-{"anverso":"入る","reverso":"はいる","reverso2":"para entrar, para contener"},
-{"anverso":"葉書","reverso":"はがき","reverso2":"tarjeta postal"},
-{"anverso":null,"reverso":"はく","reverso2":"al desgaste, para poner en los pantalones"},
-{"anverso":"箱","reverso":"はこ","reverso2":"caja"},
-{"anverso":"橋","reverso":"はし","reverso2":"puente"},
-{"anverso":null,"reverso":"はし","reverso2":"palillos"},
-{"anverso":"始まる","reverso":"はじまる","reverso2":"empezar"},
-{"anverso":"初め\/始め","reverso":"はじめ","reverso2":"comenzando"},
-{"anverso":"初めて","reverso":"はじめて","reverso2":"por primera vez"},
-{"anverso":"走る","reverso":"はしる","reverso2":"correr"},
-{"anverso":null,"reverso":"バス","reverso2":"autobús"},
-{"anverso":null,"reverso":"バター","reverso2":"mantequilla"},
-{"anverso":"二十歳","reverso":"はたち","reverso2":"20 años, 20 años"},
-{"anverso":"働く","reverso":"はたらく","reverso2":"trabajar"},
-{"anverso":"八","reverso":"はち","reverso2":"ocho"},
-{"anverso":"二十日","reverso":"はつか","reverso2":"veinte días, XX"},
-{"anverso":"花","reverso":"はな","reverso2":"flor"},
-{"anverso":"鼻","reverso":"はな","reverso2":"nariz"},
-{"anverso":"話","reverso":"はなし","reverso2":"charla, historia"},
-{"anverso":"話す","reverso":"はなす","reverso2":"hablar"},
-{"anverso":"早い","reverso":"はやい","reverso2":"temprano"},
-{"anverso":"速い","reverso":"はやい","reverso2":"rápido"},
-{"anverso":"春","reverso":"はる","reverso2":"primavera"},
-{"anverso":"貼る","reverso":"はる","reverso2":"pegarse"},
-{"anverso":"晴れ","reverso":"はれ","reverso2":"Tiempo despejado"},
-{"anverso":"晴れる","reverso":"はれる","reverso2":"ser soleado"},
-{"anverso":"半","reverso":"はん","reverso2":"medio"},
-{"anverso":"晩","reverso":"ばん","reverso2":"noche"},
-{"anverso":null,"reverso":"パン","reverso2":"pan de molde"},
-{"anverso":null,"reverso":"ハンカチ","reverso2":"pañuelo"},
-{"anverso":"番号","reverso":"ばんごう","reverso2":"número"},
-{"anverso":"晩御飯","reverso":"ばんごはん","reverso2":"cena"},
-{"anverso":"半分","reverso":"はんぶん","reverso2":"media hora"},
-{"anverso":"東","reverso":"ひがし","reverso2":"este"},
-{"anverso":"引く","reverso":"ひく","reverso2":"al tirón"},
-{"anverso":"弾く","reverso":"ひく","reverso2":"a tocar un instrumento con cuerdas, incluyendo el piano"},
-{"anverso":"低い","reverso":"ひくい","reverso2":"corta, baja"},
-{"anverso":"飛行機","reverso":"ひこうき","reverso2":"avión"},
-{"anverso":"左","reverso":"ひだり","reverso2":"lado izquierdo"},
-{"anverso":"人","reverso":"ひと","reverso2":"persona"},
-{"anverso":"一つ","reverso":"ひとつ","reverso2":"uno"},
-{"anverso":"一月","reverso":"ひとつき","reverso2":"un mes"},
-{"anverso":"一人","reverso":"ひとり","reverso2":"una persona"},
-{"anverso":"暇","reverso":"ひま","reverso2":"tiempo libre"},
-{"anverso":"百","reverso":"ひゃく","reverso2":"cien"},
-{"anverso":"病院","reverso":"びょういん","reverso2":"hospital"},
-{"anverso":"病気","reverso":"びょうき","reverso2":"enfermedad"},
-{"anverso":"昼","reverso":"ひる","reverso2":"mediodía, durante el día"},
-{"anverso":"昼御飯","reverso":"ひるごはん","reverso2":"merienda de mediodía"},
-{"anverso":"広い","reverso":"ひろい","reverso2":"espaciosa, amplia"},
-{"anverso":null,"reverso":"フィルム","reverso2":"rollo de película"},
-{"anverso":"封筒","reverso":"ふうとう","reverso2":"sobre"},
-{"anverso":null,"reverso":"プール","reverso2":"piscina"},
-{"anverso":null,"reverso":"フォーク","reverso2":"tenedor"},
-{"anverso":"吹く","reverso":"ふく","reverso2":"soplar"},
-{"anverso":"服","reverso":"ふく","reverso2":"ropa"},
-{"anverso":"二つ","reverso":"ふたつ","reverso2":"dos"},
-{"anverso":"豚肉","reverso":"ぶたにく","reverso2":"Cerdo"},
-{"anverso":"二人","reverso":"ふたり","reverso2":"dos personas"},
-{"anverso":"二日","reverso":"ふつか","reverso2":"dos días, el segundo día del mes"},
-{"anverso":"太い","reverso":"ふとい","reverso2":"grasa"},
-{"anverso":"冬","reverso":"ふゆ","reverso2":"invierno"},
-{"anverso":"降る","reverso":"ふる","reverso2":"a caer, por ejemplo, lluvia o nieve"},
-{"anverso":"古い","reverso":"ふるい","reverso2":"edad (no se utiliza para las personas)"},
-{"anverso":null,"reverso":"ふろ","reverso2":"bañera"},
-{"anverso":"文章","reverso":"ぶんしょう","reverso2":"frase, texto"},
-{"anverso":null,"reverso":"ページ","reverso2":"página"},
-{"anverso":"下手","reverso":"へた","reverso2":"inexperto"},
-{"anverso":null,"reverso":"ベッド","reverso2":"cama"},
-{"anverso":null,"reverso":"ペット","reverso2":"mascota"},
-{"anverso":"部屋","reverso":"へや","reverso2":"habitación"},
-{"anverso":"辺","reverso":"へん","reverso2":"zona"},
-{"anverso":null,"reverso":"ペン","reverso2":"bolígrafo"},
-{"anverso":"勉強","reverso":"べんきょうする","reverso2":"para estudiar"},
-{"anverso":"便利","reverso":"べんり","reverso2":"útil, conveniente"},
-{"anverso":"帽子","reverso":"ぼうし","reverso2":"sombrero"},
-{"anverso":null,"reverso":"ボールペン","reverso2":"bolígrafo"},
-{"anverso":null,"reverso":"ほか","reverso2":"otra, el resto"},
-{"anverso":null,"reverso":"ポケット","reverso2":"bolsillo"},
-{"anverso":"欲しい","reverso":"ほしい","reverso2":"desear"},
-{"anverso":null,"reverso":"ポスト","reverso2":"enviar"},
-{"anverso":"細い","reverso":"ほそい","reverso2":"Delgado"},
-{"anverso":null,"reverso":"ボタン","reverso2":"botón"},
-{"anverso":null,"reverso":"ホテル","reverso2":"hotel"},
-{"anverso":"本","reverso":"ほん","reverso2":"libro"},
-{"anverso":"本棚","reverso":"ほんだな","reverso2":"estantería"},
-{"anverso":null,"reverso":"ほんとう","reverso2":"verdad"},
-{"anverso":"毎朝","reverso":"まいあさ","reverso2":"cada mañana"},
-{"anverso":"毎月","reverso":"まいげつ\/まいつき","reverso2":"cada mes"},
-{"anverso":"毎週","reverso":"まいしゅう","reverso2":"cada semana"},
-{"anverso":"毎日","reverso":"まいにち","reverso2":"todos los días"},
-{"anverso":"毎年","reverso":"まいねん\/まいとし","reverso2":"todos los años"},
-{"anverso":"毎晩","reverso":"まいばん","reverso2":"cada noche"},
-{"anverso":"前","reverso":"まえ","reverso2":"antes de"},
-{"anverso":"曲る","reverso":"まがる","reverso2":"a su vez, para doblar"},
-{"anverso":null,"reverso":"まずい","reverso2":"desagradable"},
-{"anverso":null,"reverso":"また","reverso2":"de nuevo y"},
-{"anverso":null,"reverso":"まだ","reverso2":"aun así"},
-{"anverso":"町","reverso":"まち","reverso2":"pueblo, ciudad"},
-{"anverso":"待つ","reverso":"まつ","reverso2":"esperar"},
-{"anverso":null,"reverso":"まっすぐ","reverso2":"recta, directa"},
-{"anverso":null,"reverso":"マッチ","reverso2":"partido"},
-{"anverso":"窓","reverso":"まど","reverso2":"ventana"},
-{"anverso":"丸い\/円い","reverso":"まるい","reverso2":"redondo, circular"},
-{"anverso":"万","reverso":"まん","reverso2":"diez mil"},
-{"anverso":"万年筆","reverso":"まんねんひつ","reverso2":"Pluma fuente"},
-{"anverso":"磨く","reverso":"みがく","reverso2":"a cepillarse los dientes, para pulir"},
-{"anverso":"右","reverso":"みぎ","reverso2":"lado derecho"},
-{"anverso":"短い","reverso":"みじかい","reverso2":"corto"},
-{"anverso":"水","reverso":"みず","reverso2":"agua"},
-{"anverso":"店","reverso":"みせ","reverso2":"tienda"},
-{"anverso":"見せる","reverso":"みせる","reverso2":"mostrar"},
-{"anverso":"道","reverso":"みち","reverso2":"calle"},
-{"anverso":"三日","reverso":"みっか","reverso2":"tres días, tercer día del mes"},
-{"anverso":"三つ","reverso":"みっつ","reverso2":"Tres"},
-{"anverso":"緑","reverso":"みどり","reverso2":"verde"},
-{"anverso":"皆さん","reverso":"みなさん","reverso2":"todos"},
-{"anverso":"南","reverso":"みなみ","reverso2":"sur"},
-{"anverso":"耳","reverso":"みみ","reverso2":"oreja"},
-{"anverso":"見る 観る","reverso":"みる","reverso2":"a ver, a ver"},
-{"anverso":null,"reverso":"みんな","reverso2":"todos"},
-{"anverso":"六日","reverso":"むいか","reverso2":"seis días, el sexto día del mes"},
-{"anverso":"向こう","reverso":"むこう","reverso2":"Por ahí"},
-{"anverso":"難しい","reverso":"むずかしい","reverso2":"difícil"},
-{"anverso":"六つ","reverso":"むっつ","reverso2":"seis"},
-{"anverso":"村","reverso":"むら","reverso2":"pueblo"},
-{"anverso":"目","reverso":"め","reverso2":"ojo"},
-{"anverso":null,"reverso":"メートル","reverso2":"metro"},
-{"anverso":"眼鏡","reverso":"めがね","reverso2":"gafas"},
-{"anverso":null,"reverso":"もう","reverso2":"ya"},
-{"anverso":"もう一度","reverso":"もういちど","reverso2":"otra vez"},
-{"anverso":"木曜日","reverso":"もくようび","reverso2":"jueves"},
-{"anverso":"持つ","reverso":"もつ","reverso2":"sostener"},
-{"anverso":null,"reverso":"もっと","reverso2":"más"},
-{"anverso":"物","reverso":"もの","reverso2":"cosa"},
-{"anverso":"門","reverso":"もん","reverso2":"portón"},
-{"anverso":"問題","reverso":"もんだい","reverso2":"problema"},
-{"anverso":"八百屋","reverso":"やおや","reverso2":"verdulero"},
-{"anverso":"野菜","reverso":"やさい","reverso2":"vegetal"},
-{"anverso":"易しい","reverso":"やさしい","reverso2":"fácil, sencillo"},
-{"anverso":"安い","reverso":"やすい","reverso2":"barato"},
-{"anverso":"休み","reverso":"やすみ","reverso2":"resto, vacaciones"},
-{"anverso":"休む","reverso":"やすむ","reverso2":"descansar"},
-{"anverso":"八つ","reverso":"やっつ","reverso2":"ocho"},
-{"anverso":"山","reverso":"やま","reverso2":"montaña"},
-{"anverso":null,"reverso":"やる","reverso2":"que hacer"},
-{"anverso":"夕方","reverso":"ゆうがた","reverso2":"noche"},
-{"anverso":"夕飯","reverso":"ゆうはん","reverso2":"cena"},
-{"anverso":"郵便局","reverso":"ゆうびんきょく","reverso2":"oficina postal"},
-{"anverso":"昨夜","reverso":"ゆうべ","reverso2":"anoche"},
-{"anverso":"有名","reverso":"ゆうめい","reverso2":"famoso"},
-{"anverso":"雪","reverso":"ゆき","reverso2":"nieve"},
-{"anverso":"行く","reverso":"ゆく","reverso2":"ir"},
-{"anverso":null,"reverso":"ゆっくりと","reverso2":"despacio"},
-{"anverso":"八日","reverso":"ようか","reverso2":"ocho días, el octavo día del mes"},
-{"anverso":"洋服","reverso":"ようふく","reverso2":"ropa de estilo occidental"},
-{"anverso":null,"reverso":"よく","reverso2":"a menudo, así"},
-{"anverso":"横","reverso":"よこ","reverso2":"lado, lado, ancho"},
-{"anverso":"四日","reverso":"よっか","reverso2":"cuatro días, los días del mes Fouth"},
-{"anverso":"四つ","reverso":"よっつ","reverso2":"cuatro"},
-{"anverso":"呼ぶ","reverso":"よぶ","reverso2":"gritar, para invitar"},
-{"anverso":"読む","reverso":"よむ","reverso2":"leer"},
-{"anverso":"夜","reverso":"よる","reverso2":"tarde noche"},
-{"anverso":"弱い","reverso":"よわい","reverso2":"débiles"},
-{"anverso":"来月","reverso":"らいげつ","reverso2":"próximo mes"},
-{"anverso":"来週","reverso":"らいしゅう","reverso2":"la próxima semana"},
-{"anverso":"来年","reverso":"らいねん","reverso2":"el próximo año"},
-{"anverso":null,"reverso":"ラジオ","reverso2":"radio"},
-{"anverso":null,"reverso":"ラジカセ \/ ラジオカセット","reverso2":"radiocasete"},
-{"anverso":null,"reverso":"りっぱ","reverso2":"espléndido"},
-{"anverso":"留学生","reverso":"りゅうがくせい","reverso2":"estudiante extranjero"},
-{"anverso":"両親","reverso":"りょうしん","reverso2":"ambos padres"},
-{"anverso":"料理","reverso":"りょうり","reverso2":"cocina"},
-{"anverso":"旅行","reverso":"りょこう","reverso2":"viaje"},
-{"anverso":"零","reverso":"れい","reverso2":"cero"},
-{"anverso":"冷蔵庫","reverso":"れいぞうこ","reverso2":"refrigerador"},
-{"anverso":null,"reverso":"レコード","reverso2":"grabar"},
-{"anverso":null,"reverso":"レストラン","reverso2":"restaurante"},
-{"anverso":"練習","reverso":"れんしゅうする","reverso2":"practicar"},
-{"anverso":"廊下","reverso":"ろうか","reverso2":"corredor"},
-{"anverso":"六","reverso":"ろく","reverso2":"seis"},
-{"anverso":null,"reverso":"ワイシャツ","reverso2":"camisa de negocios"},
-{"anverso":"若い","reverso":"わかい","reverso2":"joven"},
-{"anverso":"分かる","reverso":"わかる","reverso2":"Sera entendido"},
-{"anverso":"忘れる","reverso":"わすれる","reverso2":"olvidar"},
-{"anverso":"私","reverso":"わたくし","reverso2":"(Humilde) Yo mismo"},
-{"anverso":"私","reverso":"わたし","reverso2":"Yo mismo"},
-{"anverso":"渡す","reverso":"わたす","reverso2":"a entregar"},
-{"anverso":"渡る","reverso":"わたる","reverso2":"para cruzar"},
-{"anverso":"悪い","reverso":"わるい","reverso2":"malo"},
-{"anverso":null,"reverso":"より、ほう","reverso2":"Se utiliza para la comparación."}
+  {
+    "anverso": "会う",
+    "reverso": "あう",
+    "reverso2": "saber"
+  },
+  {
+    "anverso": "青",
+    "reverso": "あお",
+    "reverso2": "azul"
+  },
+  {
+    "anverso": "青い",
+    "reverso": "あおい",
+    "reverso2": "azul"
+  },
+  {
+    "anverso": "赤",
+    "reverso": "あか",
+    "reverso2": "rojo"
+  },
+  {
+    "anverso": "赤い",
+    "reverso": "あかい",
+    "reverso2": "rojo"
+  },
+  {
+    "anverso": "明い",
+    "reverso": "あかるい",
+    "reverso2": "brillante"
+  },
+  {
+    "anverso": "秋",
+    "reverso": "あき",
+    "reverso2": "otoño"
+  },
+  {
+    "anverso": "開く",
+    "reverso": "あく",
+    "reverso2": "open, open (documentos, archivos)"
+  },
+  {
+    "anverso": "開ける",
+    "reverso": "あける",
+    "reverso2": "abrir, abrir (puertas)"
+  },
+  {
+    "anverso": "上げる",
+    "reverso": "あげる",
+    "reverso2": "levanta, levanta (levanta la mano)"
+  },
+  {
+    "anverso": "朝",
+    "reverso": "あさ",
+    "reverso2": "Mañana"
+  },
+  {
+    "anverso": "朝御飯",
+    "reverso": "あさごはん",
+    "reverso2": "desayuno"
+  },
+  {
+    "anverso": "",
+    "reverso": "あさって",
+    "reverso2": "pasado mañana"
+  },
+  {
+    "anverso": "足",
+    "reverso": "あし",
+    "reverso2": "pie pierna"
+  },
+  {
+    "anverso": "明日",
+    "reverso": "あした",
+    "reverso2": "mañana"
+  },
+  {
+    "anverso": "",
+    "reverso": "あそこ",
+    "reverso2": "ahí, justo ahí"
+  },
+  {
+    "anverso": "遊ぶ",
+    "reverso": "あそぶ",
+    "reverso2": "jugar el juego"
+  },
+  {
+    "anverso": "暖かい",
+    "reverso": "あたたかい",
+    "reverso2": "tibio, caliente"
+  },
+  {
+    "anverso": "頭",
+    "reverso": "あたま",
+    "reverso2": "cabeza"
+  },
+  {
+    "anverso": "新しい",
+    "reverso": "あたらしい",
+    "reverso2": "nuevo"
+  },
+  {
+    "anverso": "",
+    "reverso": "あちら",
+    "reverso2": "allí, allí, allí, lejos, distancia"
+  },
+  {
+    "anverso": "暑い",
+    "reverso": "あつい",
+    "reverso2": "caliente calor)"
+  },
+  {
+    "anverso": "熱い",
+    "reverso": "あつい",
+    "reverso2": "caliente (al jugar)"
+  },
+  {
+    "anverso": "厚い",
+    "reverso": "あつい",
+    "reverso2": "grueso, grueso, profundo"
+  },
+  {
+    "anverso": "",
+    "reverso": "あっち",
+    "reverso2": "ahí mismo, ahí"
+  },
+  {
+    "anverso": "後",
+    "reverso": "あと",
+    "reverso2": "después"
+  },
+  {
+    "anverso": "",
+    "reverso": "あなた",
+    "reverso2": "tú"
+  },
+  {
+    "anverso": "兄",
+    "reverso": "あに",
+    "reverso2": "hermano mayor"
+  },
+  {
+    "anverso": "姉",
+    "reverso": "あね",
+    "reverso2": "hermana mayor"
+  },
+  {
+    "anverso": "",
+    "reverso": "あの",
+    "reverso2": "está ahí, hey, esto"
+  },
+  {
+    "anverso": "",
+    "reverso": "あの",
+    "reverso2": "Mmm…"
+  },
+  {
+    "anverso": "",
+    "reverso": "アパート",
+    "reverso2": "Departamento"
+  },
+  {
+    "anverso": "",
+    "reverso": "あびる",
+    "reverso2": "bañarse, bañarse"
+  },
+  {
+    "anverso": "危ない",
+    "reverso": "あぶない",
+    "reverso2": "peligroso"
+  },
+  {
+    "anverso": "甘い",
+    "reverso": "あまい",
+    "reverso2": "dulce"
+  },
+  {
+    "anverso": "",
+    "reverso": "あまり",
+    "reverso2": "no mucho realmente"
+  },
+  {
+    "anverso": "雨",
+    "reverso": "あめ",
+    "reverso2": "lluvia"
+  },
+  {
+    "anverso": "飴",
+    "reverso": "あめ",
+    "reverso2": "dulce"
+  },
+  {
+    "anverso": "洗う",
+    "reverso": "あらう",
+    "reverso2": "Lavavajillas)"
+  },
+  {
+    "anverso": "",
+    "reverso": "ある",
+    "reverso2": "existir, existir, ser, ser (usado para objetos inanimados)"
+  },
+  {
+    "anverso": "歩く",
+    "reverso": "あるく",
+    "reverso2": "caminar"
+  },
+  {
+    "anverso": "",
+    "reverso": "あれ",
+    "reverso2": "Éste"
+  },
+  {
+    "anverso": "",
+    "reverso": "いい / よい",
+    "reverso2": "bueno"
+  },
+  {
+    "anverso": "",
+    "reverso": "いいえ",
+    "reverso2": "no"
+  },
+  {
+    "anverso": "言う",
+    "reverso": "いう",
+    "reverso2": "contar"
+  },
+  {
+    "anverso": "家",
+    "reverso": "いえ",
+    "reverso2": "Casa"
+  },
+  {
+    "anverso": "",
+    "reverso": "いかが",
+    "reverso2": "me gusta"
+  },
+  {
+    "anverso": "行く",
+    "reverso": "いく",
+    "reverso2": "Vamos"
+  },
+  {
+    "anverso": "",
+    "reverso": "いくつ",
+    "reverso2": "¿cuántos? (cuenta) (edad)"
+  },
+  {
+    "anverso": "",
+    "reverso": "いくら",
+    "reverso2": "¿Cuánto cuesta? (cuanto cuesta)"
+  },
+  {
+    "anverso": "池",
+    "reverso": "いけ",
+    "reverso2": "laguna"
+  },
+  {
+    "anverso": "医者",
+    "reverso": "いしゃ",
+    "reverso2": "médico"
+  },
+  {
+    "anverso": "",
+    "reverso": "いす",
+    "reverso2": "silla"
+  },
+  {
+    "anverso": "忙しい",
+    "reverso": "いそがしい",
+    "reverso2": "ocupado, ocupado, ocupado, enojado"
+  },
+  {
+    "anverso": "痛い",
+    "reverso": "いたい",
+    "reverso2": "doloroso al, Doi, duele"
+  },
+  {
+    "anverso": "一",
+    "reverso": "いち",
+    "reverso2": "uno"
+  },
+  {
+    "anverso": "一日",
+    "reverso": "いちにち",
+    "reverso2": "primer día del mes"
+  },
+  {
+    "anverso": "",
+    "reverso": "いちばん",
+    "reverso2": "mejor, primero, un número"
+  },
+  {
+    "anverso": "",
+    "reverso": "いつ",
+    "reverso2": "Cuando"
+  },
+  {
+    "anverso": "五日",
+    "reverso": "いつか",
+    "reverso2": "cinco días, quinto día (del mes, de la semana)"
+  },
+  {
+    "anverso": "一緒",
+    "reverso": "いっしょ",
+    "reverso2": "juntos"
+  },
+  {
+    "anverso": "五つ",
+    "reverso": "いつつ",
+    "reverso2": "cinco"
+  },
+  {
+    "anverso": "",
+    "reverso": "いつも",
+    "reverso2": "nunca"
+  },
+  {
+    "anverso": "犬",
+    "reverso": "いぬ",
+    "reverso2": "perro"
+  },
+  {
+    "anverso": "今",
+    "reverso": "いま",
+    "reverso2": "ahora"
+  },
+  {
+    "anverso": "意味",
+    "reverso": "いみ",
+    "reverso2": "sentido"
+  },
+  {
+    "anverso": "妹",
+    "reverso": "いもうと",
+    "reverso2": "hermana menor"
+  },
+  {
+    "anverso": "嫌",
+    "reverso": "いや",
+    "reverso2": "desagradable"
+  },
+  {
+    "anverso": "入口",
+    "reverso": "いりぐち",
+    "reverso2": "entrada"
+  },
+  {
+    "anverso": "居る",
+    "reverso": "いる",
+    "reverso2": "utilizado para indicar la presencia de personas y animales"
+  },
+  {
+    "anverso": "要る",
+    "reverso": "いる",
+    "reverso2": "necesidad"
+  },
+  {
+    "anverso": "入れる",
+    "reverso": "いれる",
+    "reverso2": "ponerse"
+  },
+  {
+    "anverso": "色",
+    "reverso": "いろ",
+    "reverso2": "color"
+  },
+  {
+    "anverso": "色々",
+    "reverso": "いろいろ",
+    "reverso2": "varios"
+  },
+  {
+    "anverso": "上",
+    "reverso": "うえ",
+    "reverso2": "Arriba, arriba"
+  },
+  {
+    "anverso": "後ろ",
+    "reverso": "うしろ",
+    "reverso2": "detrás"
+  },
+  {
+    "anverso": "薄い",
+    "reverso": "うすい",
+    "reverso2": "delgado, débil"
+  },
+  {
+    "anverso": "歌",
+    "reverso": "うた",
+    "reverso2": "canción"
+  },
+  {
+    "anverso": "歌う",
+    "reverso": "うたう",
+    "reverso2": "canta"
+  },
+  {
+    "anverso": "生まれる",
+    "reverso": "うまれる",
+    "reverso2": "nacer"
+  },
+  {
+    "anverso": "海",
+    "reverso": "うみ",
+    "reverso2": "mar"
+  },
+  {
+    "anverso": "売る",
+    "reverso": "うる",
+    "reverso2": "vender"
+  },
+  {
+    "anverso": "煩い",
+    "reverso": "うるさい",
+    "reverso2": "ruidoso, molesto (cállate)"
+  },
+  {
+    "anverso": "上着",
+    "reverso": "うわぎ",
+    "reverso2": "chaqueta, ropa de abrigo"
+  },
+  {
+    "anverso": "絵",
+    "reverso": "え",
+    "reverso2": "fotografía"
+  },
+  {
+    "anverso": "映画",
+    "reverso": "えいが",
+    "reverso2": "película"
+  },
+  {
+    "anverso": "映画館",
+    "reverso": "えいがかん",
+    "reverso2": "cine"
+  },
+  {
+    "anverso": "英語",
+    "reverso": "えいご",
+    "reverso2": "Idioma en Inglés"
+  },
+  {
+    "anverso": "",
+    "reverso": "ええ",
+    "reverso2": "sí"
+  },
+  {
+    "anverso": "駅",
+    "reverso": "えき",
+    "reverso2": "estación"
+  },
+  {
+    "anverso": "",
+    "reverso": "エレベーター",
+    "reverso2": "ascensor"
+  },
+  {
+    "anverso": "鉛筆",
+    "reverso": "えんぴつ",
+    "reverso2": "lápiz"
+  },
+  {
+    "anverso": "",
+    "reverso": "おいしい",
+    "reverso2": "delicioso, sabroso"
+  },
+  {
+    "anverso": "多い",
+    "reverso": "おおい",
+    "reverso2": "Muchos"
+  },
+  {
+    "anverso": "大きい",
+    "reverso": "おおきい",
+    "reverso2": "grande"
+  },
+  {
+    "anverso": "大きな",
+    "reverso": "おおきな",
+    "reverso2": "grande"
+  },
+  {
+    "anverso": "大勢",
+    "reverso": "おおぜい",
+    "reverso2": "gran cantidad de personas"
+  },
+  {
+    "anverso": "お母さん",
+    "reverso": "おかあさん",
+    "reverso2": "madre"
+  },
+  {
+    "anverso": "お菓子",
+    "reverso": "おかし",
+    "reverso2": "dulces"
+  },
+  {
+    "anverso": "お金",
+    "reverso": "おかね",
+    "reverso2": "dinero"
+  },
+  {
+    "anverso": "起きる",
+    "reverso": "おきる",
+    "reverso2": "Despierta"
+  },
+  {
+    "anverso": "置く",
+    "reverso": "おく",
+    "reverso2": "ponerse"
+  },
+  {
+    "anverso": "奥さん",
+    "reverso": "おくさん",
+    "reverso2": "esposa"
+  },
+  {
+    "anverso": "お酒",
+    "reverso": "おさけ",
+    "reverso2": "Bebida alcohólica, alcohol, hecha de arroz."
+  },
+  {
+    "anverso": "お皿",
+    "reverso": "おさら",
+    "reverso2": "plato, plato"
+  },
+  {
+    "anverso": "お爺さん",
+    "reverso": "おじいさん",
+    "reverso2": "abuelo, anciano"
+  },
+  {
+    "anverso": "教える",
+    "reverso": "おしえる",
+    "reverso2": "enseñar, escuchar decir"
+  },
+  {
+    "anverso": "叔父さん",
+    "reverso": "おじさん",
+    "reverso2": "tío, hombre de mediana edad"
+  },
+  {
+    "anverso": "押す",
+    "reverso": "おす",
+    "reverso2": "empujando, presionando, estampando"
+  },
+  {
+    "anverso": "遅い",
+    "reverso": "おそい",
+    "reverso2": "tarde, lento"
+  },
+  {
+    "anverso": "お茶",
+    "reverso": "おちゃ",
+    "reverso2": "té verde"
+  },
+  {
+    "anverso": "お手洗い",
+    "reverso": "おてあらい",
+    "reverso2": "baño"
+  },
+  {
+    "anverso": "お父さん",
+    "reverso": "おとうさん",
+    "reverso2": "Papá"
+  },
+  {
+    "anverso": "弟",
+    "reverso": "おとうと",
+    "reverso2": "Hermano más chico"
+  },
+  {
+    "anverso": "男",
+    "reverso": "おとこ",
+    "reverso2": "Cara de hombre"
+  },
+  {
+    "anverso": "男の子",
+    "reverso": "おとこのこ",
+    "reverso2": "Niño"
+  },
+  {
+    "anverso": "一昨日",
+    "reverso": "おととい",
+    "reverso2": "Anteayer"
+  },
+  {
+    "anverso": "一昨年",
+    "reverso": "おととし",
+    "reverso2": "dos años atrás"
+  },
+  {
+    "anverso": "大人",
+    "reverso": "おとな",
+    "reverso2": "Adulto"
+  },
+  {
+    "anverso": "",
+    "reverso": "おなか",
+    "reverso2": "estómago"
+  },
+  {
+    "anverso": "同じ",
+    "reverso": "おなじ",
+    "reverso2": "mismo"
+  },
+  {
+    "anverso": "お兄さん",
+    "reverso": "おにいさん",
+    "reverso2": "hermano mayor"
+  },
+  {
+    "anverso": "お姉さん",
+    "reverso": "おねえさん",
+    "reverso2": "hermana mayor"
+  },
+  {
+    "anverso": "",
+    "reverso": "おばあさん",
+    "reverso2": "abuela, mayor"
+  },
+  {
+    "anverso": "伯母さん / 叔母さん",
+    "reverso": "おばさん",
+    "reverso2": "Tía, mujer de mediana edad"
+  },
+  {
+    "anverso": "お風呂",
+    "reverso": "おふろ",
+    "reverso2": "Bañera,"
+  },
+  {
+    "anverso": "お弁当",
+    "reverso": "おべんとう",
+    "reverso2": "comida para llevar"
+  },
+  {
+    "anverso": "覚える",
+    "reverso": "おぼえる",
+    "reverso2": "recuerda"
+  },
+  {
+    "anverso": "",
+    "reverso": "おまわりさん",
+    "reverso2": "término amistoso para la policía"
+  },
+  {
+    "anverso": "重い",
+    "reverso": "おもい",
+    "reverso2": "Pesado"
+  },
+  {
+    "anverso": "",
+    "reverso": "おもしろい",
+    "reverso2": "Interesante"
+  },
+  {
+    "anverso": "泳ぐ",
+    "reverso": "およぐ",
+    "reverso2": "nadar"
+  },
+  {
+    "anverso": "降りる",
+    "reverso": "おりる",
+    "reverso2": "salir, salir (del coche, tren)"
+  },
+  {
+    "anverso": "終る",
+    "reverso": "おわる",
+    "reverso2": "terminar"
+  },
+  {
+    "anverso": "音楽",
+    "reverso": "おんがく",
+    "reverso2": "Música"
+  },
+  {
+    "anverso": "女",
+    "reverso": "おんな",
+    "reverso2": "Mujer"
+  },
+  {
+    "anverso": "女の子",
+    "reverso": "おんなのこ",
+    "reverso2": "Niña"
+  },
+  {
+    "anverso": "外国",
+    "reverso": "がいこく",
+    "reverso2": "país extranjero"
+  },
+  {
+    "anverso": "外国人",
+    "reverso": "がいこくじん",
+    "reverso2": "Exterior"
+  },
+  {
+    "anverso": "会社",
+    "reverso": "かいしゃ",
+    "reverso2": "Empresa"
+  },
+  {
+    "anverso": "階段",
+    "reverso": "かいだん",
+    "reverso2": "Escalera"
+  },
+  {
+    "anverso": "買い物",
+    "reverso": "かいもの",
+    "reverso2": "Compras"
+  },
+  {
+    "anverso": "買う",
+    "reverso": "かう",
+    "reverso2": "compra"
+  },
+  {
+    "anverso": "返す",
+    "reverso": "かえす",
+    "reverso2": "volver, volver"
+  },
+  {
+    "anverso": "帰る",
+    "reverso": "かえる",
+    "reverso2": "Vuelve"
+  },
+  {
+    "anverso": "",
+    "reverso": "かかる",
+    "reverso2": "tener tiempo o dinero"
+  },
+  {
+    "anverso": "",
+    "reverso": "かぎ",
+    "reverso2": "Llave"
+  },
+  {
+    "anverso": "書く",
+    "reverso": "かく",
+    "reverso2": "escribir"
+  },
+  {
+    "anverso": "学生",
+    "reverso": "がくせい",
+    "reverso2": "Estudiante)"
+  },
+  {
+    "anverso": "",
+    "reverso": "かける",
+    "reverso2": "llamar por teléfono"
+  },
+  {
+    "anverso": "傘",
+    "reverso": "かさ",
+    "reverso2": "Paraguas"
+  },
+  {
+    "anverso": "貸す",
+    "reverso": "かす",
+    "reverso2": "prestar"
+  },
+  {
+    "anverso": "風",
+    "reverso": "かぜ",
+    "reverso2": "Viento"
+  },
+  {
+    "anverso": "風邪",
+    "reverso": "かぜ",
+    "reverso2": "un resfriado, un resfriado"
+  },
+  {
+    "anverso": "家族",
+    "reverso": "かぞく",
+    "reverso2": "Familia"
+  },
+  {
+    "anverso": "方",
+    "reverso": "かた",
+    "reverso2": "persona"
+  },
+  {
+    "anverso": "学校",
+    "reverso": "がっこう",
+    "reverso2": "Colegio"
+  },
+  {
+    "anverso": "",
+    "reverso": "カップ",
+    "reverso2": "taza"
+  },
+  {
+    "anverso": "家庭",
+    "reverso": "かてい",
+    "reverso2": "Hogar (en un sentido más privado, íntimo y personal)"
+  },
+  {
+    "anverso": "角",
+    "reverso": "かど",
+    "reverso2": "Ángulo de la esquina de la bocina"
+  },
+  {
+    "anverso": "",
+    "reverso": "かばん",
+    "reverso2": "bolso, cesta, bolso"
+  },
+  {
+    "anverso": "花瓶",
+    "reverso": "かびん",
+    "reverso2": "un florero (flores o adorno)"
+  },
+  {
+    "anverso": "紙",
+    "reverso": "かみ",
+    "reverso2": "papel"
+  },
+  {
+    "anverso": "",
+    "reverso": "カメラ",
+    "reverso2": "cámara"
+  },
+  {
+    "anverso": "火曜日",
+    "reverso": "かようび",
+    "reverso2": "Martes"
+  },
+  {
+    "anverso": "辛い",
+    "reverso": "からい",
+    "reverso2": "Picante"
+  },
+  {
+    "anverso": "体",
+    "reverso": "からだ",
+    "reverso2": "Cuerpo"
+  },
+  {
+    "anverso": "借りる",
+    "reverso": "かりる",
+    "reverso2": "pedir prestado, alquilar"
+  },
+  {
+    "anverso": "軽い",
+    "reverso": "かるい",
+    "reverso2": "Ligero"
+  },
+  {
+    "anverso": "",
+    "reverso": "カレー",
+    "reverso2": "Curry"
+  },
+  {
+    "anverso": "",
+    "reverso": "カレンダー",
+    "reverso2": "calendario"
+  },
+  {
+    "anverso": "川 / 河",
+    "reverso": "かわ",
+    "reverso2": "Río"
+  },
+  {
+    "anverso": "",
+    "reverso": "かわいい",
+    "reverso2": "Linda"
+  },
+  {
+    "anverso": "漢字",
+    "reverso": "かんじ",
+    "reverso2": "Ideograma chino"
+  },
+  {
+    "anverso": "木",
+    "reverso": "き",
+    "reverso2": "madera de arbol"
+  },
+  {
+    "anverso": "黄色",
+    "reverso": "きいろ",
+    "reverso2": "amarillo"
+  },
+  {
+    "anverso": "黄色い",
+    "reverso": "きいろい",
+    "reverso2": "amarillo"
+  },
+  {
+    "anverso": "消える",
+    "reverso": "きえる",
+    "reverso2": "desaparecer, desaparecer"
+  },
+  {
+    "anverso": "聞く",
+    "reverso": "きく",
+    "reverso2": "escucha, escucha, pregunta"
+  },
+  {
+    "anverso": "北",
+    "reverso": "きた",
+    "reverso2": "norte"
+  },
+  {
+    "anverso": "",
+    "reverso": "ギター",
+    "reverso2": "Guitarra"
+  },
+  {
+    "anverso": "汚い",
+    "reverso": "きたない",
+    "reverso2": "Sucio"
+  },
+  {
+    "anverso": "喫茶店",
+    "reverso": "きっさてん",
+    "reverso2": "cafetería"
+  },
+  {
+    "anverso": "切手",
+    "reverso": "きって",
+    "reverso2": "sello"
+  },
+  {
+    "anverso": "切符",
+    "reverso": "きっぷ",
+    "reverso2": "Boleto"
+  },
+  {
+    "anverso": "昨日",
+    "reverso": "きのう",
+    "reverso2": "Ayer"
+  },
+  {
+    "anverso": "九",
+    "reverso": "きゅう / く",
+    "reverso2": "Nueve"
+  },
+  {
+    "anverso": "牛肉",
+    "reverso": "ぎゅうにく",
+    "reverso2": "Carne de vaca"
+  },
+  {
+    "anverso": "牛乳",
+    "reverso": "ぎゅうにゅう",
+    "reverso2": "Leche"
+  },
+  {
+    "anverso": "今日",
+    "reverso": "きょう",
+    "reverso2": "Hoy"
+  },
+  {
+    "anverso": "教室",
+    "reverso": "きょうしつ",
+    "reverso2": "Aula"
+  },
+  {
+    "anverso": "兄弟",
+    "reverso": "きょうだい",
+    "reverso2": "Hermanos"
+  },
+  {
+    "anverso": "去年",
+    "reverso": "きょねん",
+    "reverso2": "año pasado"
+  },
+  {
+    "anverso": "嫌い",
+    "reverso": "きらい",
+    "reverso2": "Odiar"
+  },
+  {
+    "anverso": "切る",
+    "reverso": "きる",
+    "reverso2": "cortar"
+  },
+  {
+    "anverso": "着る",
+    "reverso": "きる",
+    "reverso2": "vestir"
+  },
+  {
+    "anverso": "",
+    "reverso": "きれい",
+    "reverso2": "hermoso, limpio"
+  },
+  {
+    "anverso": "",
+    "reverso": "キロ / >キログラム",
+    "reverso2": "Kilogramo"
+  },
+  {
+    "anverso": "",
+    "reverso": "キロ / キロメートル",
+    "reverso2": "Kilómetro"
+  },
+  {
+    "anverso": "銀行",
+    "reverso": "ぎんこう",
+    "reverso2": "Banco"
+  },
+  {
+    "anverso": "金曜日",
+    "reverso": "きんようび",
+    "reverso2": "Viernes"
+  },
+  {
+    "anverso": "薬",
+    "reverso": "くすり",
+    "reverso2": "medicina, medicina"
+  },
+  {
+    "anverso": "",
+    "reverso": "ください",
+    "reverso2": "Por favor"
+  },
+  {
+    "anverso": "果物",
+    "reverso": "くだもの",
+    "reverso2": "Fruta"
+  },
+  {
+    "anverso": "口",
+    "reverso": "くち",
+    "reverso2": "apertura de boca"
+  },
+  {
+    "anverso": "靴",
+    "reverso": "くつ",
+    "reverso2": "Zapatos"
+  },
+  {
+    "anverso": "靴下",
+    "reverso": "くつした",
+    "reverso2": "Calcetines"
+  },
+  {
+    "anverso": "国",
+    "reverso": "くに",
+    "reverso2": "Padres"
+  },
+  {
+    "anverso": "曇り",
+    "reverso": "くもり",
+    "reverso2": "Tiempo nublado"
+  },
+  {
+    "anverso": "曇る",
+    "reverso": "くもる",
+    "reverso2": "enturbiarse, empañarse (gafas)"
+  },
+  {
+    "anverso": "暗い",
+    "reverso": "くらい",
+    "reverso2": "Sucio"
+  },
+  {
+    "anverso": "",
+    "reverso": "クラス",
+    "reverso2": "Clase (escuela)"
+  },
+  {
+    "anverso": "",
+    "reverso": "グラム",
+    "reverso2": "Césped"
+  },
+  {
+    "anverso": "来る",
+    "reverso": "くる",
+    "reverso2": "Ven aquí"
+  },
+  {
+    "anverso": "車",
+    "reverso": "くるま",
+    "reverso2": "automóvil, vehículo, coche"
+  },
+  {
+    "anverso": "黒",
+    "reverso": "くろ",
+    "reverso2": "negro"
+  },
+  {
+    "anverso": "黒い",
+    "reverso": "くろい",
+    "reverso2": "negro"
+  },
+  {
+    "anverso": "警官",
+    "reverso": "けいかん",
+    "reverso2": "policía"
+  },
+  {
+    "anverso": "今朝",
+    "reverso": "けさ",
+    "reverso2": "Esta mañana"
+  },
+  {
+    "anverso": "消す",
+    "reverso": "けす",
+    "reverso2": "Apagado"
+  },
+  {
+    "anverso": "結構",
+    "reverso": "けっこう",
+    "reverso2": "bastante espléndido"
+  },
+  {
+    "anverso": "結婚",
+    "reverso": "けっこん",
+    "reverso2": "Matrimonio"
+  },
+  {
+    "anverso": "月曜日",
+    "reverso": "げつようび",
+    "reverso2": "Lunes"
+  },
+  {
+    "anverso": "玄関",
+    "reverso": "げんかん",
+    "reverso2": "hall de entrada"
+  },
+  {
+    "anverso": "元気",
+    "reverso": "げんき",
+    "reverso2": "saludable y con energía"
+  },
+  {
+    "anverso": "五",
+    "reverso": "ご",
+    "reverso2": "Cinco"
+  },
+  {
+    "anverso": "公園",
+    "reverso": "こうえん",
+    "reverso2": "Parque"
+  },
+  {
+    "anverso": "交差点",
+    "reverso": "こうさてん",
+    "reverso2": "intersección (tránsito)"
+  },
+  {
+    "anverso": "紅茶",
+    "reverso": "こうちゃ",
+    "reverso2": "té negro"
+  },
+  {
+    "anverso": "交番",
+    "reverso": "こうばん",
+    "reverso2": "puesto de policía"
+  },
+  {
+    "anverso": "声",
+    "reverso": "こえ",
+    "reverso2": "Voz"
+  },
+  {
+    "anverso": "",
+    "reverso": "コート",
+    "reverso2": "Saco"
+  },
+  {
+    "anverso": "",
+    "reverso": "コーヒー",
+    "reverso2": "café"
+  },
+  {
+    "anverso": "",
+    "reverso": "ここ",
+    "reverso2": "Aqui"
+  },
+  {
+    "anverso": "午後",
+    "reverso": "ごご",
+    "reverso2": "noche"
+  },
+  {
+    "anverso": "九日",
+    "reverso": "ここのか",
+    "reverso2": "nueve días, noveno día"
+  },
+  {
+    "anverso": "九つ",
+    "reverso": "ここのつ",
+    "reverso2": "Nueve"
+  },
+  {
+    "anverso": "午前",
+    "reverso": "ごぜん",
+    "reverso2": "Mañana"
+  },
+  {
+    "anverso": "答える",
+    "reverso": "こたえる",
+    "reverso2": "responder"
+  },
+  {
+    "anverso": "",
+    "reverso": "こちら",
+    "reverso2": "esta persona o forma"
+  },
+  {
+    "anverso": "",
+    "reverso": "こっち",
+    "reverso2": "esta persona o forma"
+  },
+  {
+    "anverso": "",
+    "reverso": "コップ",
+    "reverso2": "un vaso"
+  },
+  {
+    "anverso": "今年",
+    "reverso": "ことし",
+    "reverso2": "este año"
+  },
+  {
+    "anverso": "言葉",
+    "reverso": "ことば",
+    "reverso2": "palabra, idioma"
+  },
+  {
+    "anverso": "子供",
+    "reverso": "こども",
+    "reverso2": "Niño"
+  },
+  {
+    "anverso": "",
+    "reverso": "この",
+    "reverso2": "Éste"
+  },
+  {
+    "anverso": "御飯",
+    "reverso": "ごはん",
+    "reverso2": "harina de arroz cocido"
+  },
+  {
+    "anverso": "",
+    "reverso": "コピーする",
+    "reverso2": "Copiar"
+  },
+  {
+    "anverso": "困る",
+    "reverso": "こまる",
+    "reverso2": "estar preocupado"
+  },
+  {
+    "anverso": "",
+    "reverso": "これ",
+    "reverso2": "Éste"
+  },
+  {
+    "anverso": "今月",
+    "reverso": "こんげつ",
+    "reverso2": "este mes"
+  },
+  {
+    "anverso": "今週",
+    "reverso": "こんしゅう",
+    "reverso2": "esta semana"
+  },
+  {
+    "anverso": "",
+    "reverso": "こんな",
+    "reverso2": "Tal"
+  },
+  {
+    "anverso": "今晩",
+    "reverso": "こんばん",
+    "reverso2": "esta noche"
+  },
+  {
+    "anverso": "",
+    "reverso": "さあ",
+    "reverso2": "bueno…"
+  },
+  {
+    "anverso": "財布",
+    "reverso": "さいふ",
+    "reverso2": "Billetera"
+  },
+  {
+    "anverso": "魚",
+    "reverso": "さかな",
+    "reverso2": "Pez"
+  },
+  {
+    "anverso": "先",
+    "reverso": "さき",
+    "reverso2": "al frente, justo ahora, antes, anterior"
+  },
+  {
+    "anverso": "咲く",
+    "reverso": "さく",
+    "reverso2": "florecer, florecer"
+  },
+  {
+    "anverso": "作文",
+    "reverso": "さくぶん",
+    "reverso2": "composición, escritura"
+  },
+  {
+    "anverso": "差す",
+    "reverso": "さす",
+    "reverso2": "señalar, estirar las manos, usar un paraguas"
+  },
+  {
+    "anverso": "雑誌",
+    "reverso": "ざっし",
+    "reverso2": "Revista"
+  },
+  {
+    "anverso": "砂糖",
+    "reverso": "さとう",
+    "reverso2": "Azúcar"
+  },
+  {
+    "anverso": "寒い",
+    "reverso": "さむい",
+    "reverso2": "Frío"
+  },
+  {
+    "anverso": "さ来年",
+    "reverso": "さらいねん",
+    "reverso2": "próximo año"
+  },
+  {
+    "anverso": "三",
+    "reverso": "さん",
+    "reverso2": "Tres"
+  },
+  {
+    "anverso": "散歩",
+    "reverso": "さんぽする",
+    "reverso2": "caminar, caminar"
+  },
+  {
+    "anverso": "四",
+    "reverso": "し / よん",
+    "reverso2": "Cuatro"
+  },
+  {
+    "anverso": "塩",
+    "reverso": "しお",
+    "reverso2": "Sal"
+  },
+  {
+    "anverso": "",
+    "reverso": "しかし",
+    "reverso2": "Sin embargo,"
+  },
+  {
+    "anverso": "時間",
+    "reverso": "じかん",
+    "reverso2": "Hora"
+  },
+  {
+    "anverso": "仕事",
+    "reverso": "しごと",
+    "reverso2": "Trabajo"
+  },
+  {
+    "anverso": "辞書",
+    "reverso": "じしょ",
+    "reverso2": "Diccionario"
+  },
+  {
+    "anverso": "静か",
+    "reverso": "しずか",
+    "reverso2": "Silencio, silencio"
+  },
+  {
+    "anverso": "下",
+    "reverso": "した",
+    "reverso2": "Abajo"
+  },
+  {
+    "anverso": "七",
+    "reverso": "しち / なな",
+    "reverso2": "Siete"
+  },
+  {
+    "anverso": "質問",
+    "reverso": "しつもん",
+    "reverso2": "Pregunta"
+  },
+  {
+    "anverso": "自転車",
+    "reverso": "じてんしゃ",
+    "reverso2": "Bicicleta"
+  },
+  {
+    "anverso": "自動車",
+    "reverso": "じどうしゃ",
+    "reverso2": "Coche"
+  },
+  {
+    "anverso": "死ぬ",
+    "reverso": "しぬ",
+    "reverso2": "morir"
+  },
+  {
+    "anverso": "字引",
+    "reverso": "じびき",
+    "reverso2": "Diccionario"
+  },
+  {
+    "anverso": "自分",
+    "reverso": "じぶん",
+    "reverso2": "Yo mismo"
+  },
+  {
+    "anverso": "閉まる",
+    "reverso": "しまる",
+    "reverso2": "cerrar (puertas automáticas)"
+  },
+  {
+    "anverso": "閉める",
+    "reverso": "しめる",
+    "reverso2": "cerca"
+  },
+  {
+    "anverso": "締める",
+    "reverso": "しめる",
+    "reverso2": "corbata (ejemplo: corbata)"
+  },
+  {
+    "anverso": "",
+    "reverso": "じゃ / じゃあ",
+    "reverso2": "bien entonces…"
+  },
+  {
+    "anverso": "写真",
+    "reverso": "しゃしん",
+    "reverso2": "Fotografía"
+  },
+  {
+    "anverso": "",
+    "reverso": "シャツ",
+    "reverso2": "Camisa"
+  },
+  {
+    "anverso": "",
+    "reverso": "シャワー",
+    "reverso2": "ducha"
+  },
+  {
+    "anverso": "十",
+    "reverso": "じゅう / とお",
+    "reverso2": "Diez"
+  },
+  {
+    "anverso": "授業",
+    "reverso": "じゅぎょう",
+    "reverso2": "lección, lección, enseñanza"
+  },
+  {
+    "anverso": "宿題",
+    "reverso": "しゅくだい",
+    "reverso2": "tarea de casa"
+  },
+  {
+    "anverso": "上手",
+    "reverso": "じょうず",
+    "reverso2": "Hábil"
+  },
+  {
+    "anverso": "丈夫",
+    "reverso": "じょうぶ",
+    "reverso2": "fuerte, duradero (relación)"
+  },
+  {
+    "anverso": "",
+    "reverso": "しょうゆ",
+    "reverso2": "salsa de soya"
+  },
+  {
+    "anverso": "食堂",
+    "reverso": "しょくどう",
+    "reverso2": "cafetería, comedor"
+  },
+  {
+    "anverso": "知る",
+    "reverso": "しる",
+    "reverso2": "saber, saber"
+  },
+  {
+    "anverso": "白",
+    "reverso": "しろ",
+    "reverso2": "Blanco"
+  },
+  {
+    "anverso": "白い",
+    "reverso": "しろい",
+    "reverso2": "Blanco"
+  },
+  {
+    "anverso": "新聞",
+    "reverso": "しんぶん",
+    "reverso2": "periódico"
+  },
+  {
+    "anverso": "水曜日",
+    "reverso": "すいようび",
+    "reverso2": "Miércoles"
+  },
+  {
+    "anverso": "吸う",
+    "reverso": "すう",
+    "reverso2": "fumar, inhalar, chupar"
+  },
+  {
+    "anverso": "",
+    "reverso": "スカート",
+    "reverso2": "Falda"
+  },
+  {
+    "anverso": "好き",
+    "reverso": "すき",
+    "reverso2": "Como amor"
+  },
+  {
+    "anverso": "少ない",
+    "reverso": "すくない",
+    "reverso2": "poco insuficiente"
+  },
+  {
+    "anverso": "",
+    "reverso": "すぐに",
+    "reverso2": "Inmediatamente"
+  },
+  {
+    "anverso": "少し",
+    "reverso": "すこし",
+    "reverso2": "Pocos"
+  },
+  {
+    "anverso": "涼しい",
+    "reverso": "すずしい",
+    "reverso2": "Refrescante, fresco"
+  },
+  {
+    "anverso": "",
+    "reverso": "ストーブ",
+    "reverso2": "Calentador"
+  },
+  {
+    "anverso": "",
+    "reverso": "スプーン",
+    "reverso2": "Cuchara"
+  },
+  {
+    "anverso": "",
+    "reverso": "スポーツ",
+    "reverso2": "Deporte"
+  },
+  {
+    "anverso": "",
+    "reverso": "ズボン",
+    "reverso2": "Pantalones"
+  },
+  {
+    "anverso": "住む",
+    "reverso": "すむ",
+    "reverso2": "vivir en (casa)"
+  },
+  {
+    "anverso": "",
+    "reverso": "スリッパ",
+    "reverso2": "Chinelos"
+  },
+  {
+    "anverso": "",
+    "reverso": "する",
+    "reverso2": "hacer"
+  },
+  {
+    "anverso": "座る",
+    "reverso": "すわる",
+    "reverso2": "sentarse"
+  },
+  {
+    "anverso": "背",
+    "reverso": "せ",
+    "reverso2": "altura, altura, costa"
+  },
+  {
+    "anverso": "生徒",
+    "reverso": "せいと",
+    "reverso2": "alumno"
+  },
+  {
+    "anverso": "",
+    "reverso": "セーター",
+    "reverso2": "suéter, suéter"
+  },
+  {
+    "anverso": "",
+    "reverso": "せっけん",
+    "reverso2": "economía"
+  },
+  {
+    "anverso": "背広",
+    "reverso": "せびろ",
+    "reverso2": "traje para caminar (traje)"
+  },
+  {
+    "anverso": "狭い",
+    "reverso": "せまい",
+    "reverso2": "Estrecho"
+  },
+  {
+    "anverso": "",
+    "reverso": "ゼロ",
+    "reverso2": "Cero"
+  },
+  {
+    "anverso": "千",
+    "reverso": "せん",
+    "reverso2": "Mil"
+  },
+  {
+    "anverso": "先月",
+    "reverso": "せんげつ",
+    "reverso2": "mes pasado"
+  },
+  {
+    "anverso": "先週",
+    "reverso": "せんしゅう",
+    "reverso2": "semana pasada"
+  },
+  {
+    "anverso": "先生",
+    "reverso": "せんせい",
+    "reverso2": "profesor, doctor"
+  },
+  {
+    "anverso": "洗濯",
+    "reverso": "せんたく",
+    "reverso2": "Lavando ropas)"
+  },
+  {
+    "anverso": "全部",
+    "reverso": "ぜんぶ",
+    "reverso2": "Todas"
+  },
+  {
+    "anverso": "掃除",
+    "reverso": "そうじする",
+    "reverso2": "Barrida limpia"
+  },
+  {
+    "anverso": "",
+    "reverso": "そうして / そして",
+    "reverso2": "Y"
+  },
+  {
+    "anverso": "",
+    "reverso": "そこ",
+    "reverso2": "ese lugar"
+  },
+  {
+    "anverso": "",
+    "reverso": "そちら",
+    "reverso2": "justo ahí"
+  },
+  {
+    "anverso": "",
+    "reverso": "そっち",
+    "reverso2": "justo ahí"
+  },
+  {
+    "anverso": "外",
+    "reverso": "そと",
+    "reverso2": "Afuera"
+  },
+  {
+    "anverso": "",
+    "reverso": "その",
+    "reverso2": "Ese"
+  },
+  {
+    "anverso": "",
+    "reverso": "そば",
+    "reverso2": "cerca, al lado (un tipo de fideos también xD)"
+  },
+  {
+    "anverso": "空",
+    "reverso": "そら",
+    "reverso2": "Cielo"
+  },
+  {
+    "anverso": "",
+    "reverso": "それ",
+    "reverso2": "Éste"
+  },
+  {
+    "anverso": "",
+    "reverso": "それから",
+    "reverso2": "después de eso"
+  },
+  {
+    "anverso": "",
+    "reverso": "それでは",
+    "reverso2": "entonces esta situación"
+  },
+  {
+    "anverso": "大学",
+    "reverso": "だいがく",
+    "reverso2": "Universidad"
+  },
+  {
+    "anverso": "大使館",
+    "reverso": "たいしかん",
+    "reverso2": "embajada"
+  },
+  {
+    "anverso": "大丈夫",
+    "reverso": "だいじょうぶ",
+    "reverso2": "Bien, bien"
+  },
+  {
+    "anverso": "大好き",
+    "reverso": "だいすき",
+    "reverso2": "amor, como mucho"
+  },
+  {
+    "anverso": "大切",
+    "reverso": "たいせつ",
+    "reverso2": "importante"
+  },
+  {
+    "anverso": "台所",
+    "reverso": "だいどころ",
+    "reverso2": "cocina"
+  },
+  {
+    "anverso": "",
+    "reverso": "たいへん",
+    "reverso2": "muy"
+  },
+  {
+    "anverso": "",
+    "reverso": "たいへん",
+    "reverso2": "situación difícil"
+  },
+  {
+    "anverso": "高い",
+    "reverso": "たかい",
+    "reverso2": "alto, caro"
+  },
+  {
+    "anverso": "",
+    "reverso": "たくさん",
+    "reverso2": "Muchos"
+  },
+  {
+    "anverso": "",
+    "reverso": "タクシー",
+    "reverso2": "taxi"
+  },
+  {
+    "anverso": "出す",
+    "reverso": "だす",
+    "reverso2": "para poner afuera"
+  },
+  {
+    "anverso": "立つ",
+    "reverso": "たつ",
+    "reverso2": "descanso"
+  },
+  {
+    "anverso": "",
+    "reverso": "たて",
+    "reverso2": "altura longitud"
+  },
+  {
+    "anverso": "建物",
+    "reverso": "たてもの",
+    "reverso2": "construcción"
+  },
+  {
+    "anverso": "楽しい",
+    "reverso": "たのしい",
+    "reverso2": "divertido, agradable, genial"
+  },
+  {
+    "anverso": "頼む",
+    "reverso": "たのむ",
+    "reverso2": "preguntar"
+  },
+  {
+    "anverso": "",
+    "reverso": "たばこ",
+    "reverso2": "tabaco, cigarrillos"
+  },
+  {
+    "anverso": "",
+    "reverso": "たぶん",
+    "reverso2": "probablemente"
+  },
+  {
+    "anverso": "食べ物",
+    "reverso": "たべもの",
+    "reverso2": "comida"
+  },
+  {
+    "anverso": "食べる",
+    "reverso": "たべる",
+    "reverso2": "comer"
+  },
+  {
+    "anverso": "卵",
+    "reverso": "たまご",
+    "reverso2": "huevo"
+  },
+  {
+    "anverso": "誰",
+    "reverso": "だれ",
+    "reverso2": "OMS"
+  },
+  {
+    "anverso": "誰",
+    "reverso": "だれか",
+    "reverso2": "alguien"
+  },
+  {
+    "anverso": "誕生日",
+    "reverso": "たんじょうび",
+    "reverso2": "cumpleaños"
+  },
+  {
+    "anverso": "",
+    "reverso": "だんだん",
+    "reverso2": "gradualmente"
+  },
+  {
+    "anverso": "小さい",
+    "reverso": "ちいさい",
+    "reverso2": "pequeña"
+  },
+  {
+    "anverso": "小さな",
+    "reverso": "ちいさな",
+    "reverso2": "pequeña"
+  },
+  {
+    "anverso": "近い",
+    "reverso": "ちかい",
+    "reverso2": "siguiente (cerrar)"
+  },
+  {
+    "anverso": "違う",
+    "reverso": "ちがう",
+    "reverso2": "diferir, incorrecto"
+  },
+  {
+    "anverso": "近く",
+    "reverso": "ちかく",
+    "reverso2": "siguiente"
+  },
+  {
+    "anverso": "地下鉄",
+    "reverso": "ちかてつ",
+    "reverso2": "subterraneo"
+  },
+  {
+    "anverso": "地図",
+    "reverso": "ちず",
+    "reverso2": "mapa"
+  },
+  {
+    "anverso": "茶色",
+    "reverso": "ちゃいろ",
+    "reverso2": "marrón"
+  },
+  {
+    "anverso": "",
+    "reverso": "ちゃわん",
+    "reverso2": "bol de arroz"
+  },
+  {
+    "anverso": "",
+    "reverso": "ちょうど",
+    "reverso2": "exactamente"
+  },
+  {
+    "anverso": "",
+    "reverso": "ちょっと",
+    "reverso2": "un poco"
+  },
+  {
+    "anverso": "一日",
+    "reverso": "ついたち",
+    "reverso2": "primer mes"
+  },
+  {
+    "anverso": "使う",
+    "reverso": "つかう",
+    "reverso2": "utilizar"
+  },
+  {
+    "anverso": "疲れる",
+    "reverso": "つかれる",
+    "reverso2": "cansarse, cansarse"
+  },
+  {
+    "anverso": "次",
+    "reverso": "つぎ",
+    "reverso2": "siguiente"
+  },
+  {
+    "anverso": "着く",
+    "reverso": "つく",
+    "reverso2": "llegar, alcanzar"
+  },
+  {
+    "anverso": "机",
+    "reverso": "つくえ",
+    "reverso2": "escritorio"
+  },
+  {
+    "anverso": "作る",
+    "reverso": "つくる",
+    "reverso2": "hacer"
+  },
+  {
+    "anverso": "",
+    "reverso": "つける",
+    "reverso2": "encender"
+  },
+  {
+    "anverso": "勤める",
+    "reverso": "つとめる",
+    "reverso2": "servir, trabajar para alguien"
+  },
+  {
+    "anverso": "",
+    "reverso": "つまらない",
+    "reverso2": "aburrido"
+  },
+  {
+    "anverso": "冷たい",
+    "reverso": "つめたい",
+    "reverso2": "frio frio"
+  },
+  {
+    "anverso": "強い",
+    "reverso": "つよい",
+    "reverso2": "fuerte, poderoso"
+  },
+  {
+    "anverso": "手",
+    "reverso": "て",
+    "reverso2": "mano"
+  },
+  {
+    "anverso": "",
+    "reverso": "テープ",
+    "reverso2": "cinta"
+  },
+  {
+    "anverso": "",
+    "reverso": "テーブル",
+    "reverso2": "mesa"
+  },
+  {
+    "anverso": "",
+    "reverso": "テープレコーダー",
+    "reverso2": "grabadora"
+  },
+  {
+    "anverso": "出かける",
+    "reverso": "でかける",
+    "reverso2": "Sal"
+  },
+  {
+    "anverso": "手紙",
+    "reverso": "てがみ",
+    "reverso2": "Letra"
+  },
+  {
+    "anverso": "",
+    "reverso": "できる",
+    "reverso2": "ser capaz"
+  },
+  {
+    "anverso": "出口",
+    "reverso": "でぐち",
+    "reverso2": "Salida"
+  },
+  {
+    "anverso": "",
+    "reverso": "テスト",
+    "reverso2": "prueba"
+  },
+  {
+    "anverso": "",
+    "reverso": "では",
+    "reverso2": "en, con eso..."
+  },
+  {
+    "anverso": "",
+    "reverso": "デパート",
+    "reverso2": "Tienda departamental"
+  },
+  {
+    "anverso": "",
+    "reverso": "でも",
+    "reverso2": "pero"
+  },
+  {
+    "anverso": "出る",
+    "reverso": "でる",
+    "reverso2": "deja, deja"
+  },
+  {
+    "anverso": "",
+    "reverso": "テレビ",
+    "reverso2": "televisión"
+  },
+  {
+    "anverso": "天気",
+    "reverso": "てんき",
+    "reverso2": "clima"
+  },
+  {
+    "anverso": "電気",
+    "reverso": "でんき",
+    "reverso2": "electricidad, luz eléctrica"
+  },
+  {
+    "anverso": "電車",
+    "reverso": "でんしゃ",
+    "reverso2": "tren electrico"
+  },
+  {
+    "anverso": "電話",
+    "reverso": "でんわ",
+    "reverso2": "teléfono"
+  },
+  {
+    "anverso": "戸",
+    "reverso": "と",
+    "reverso2": "Puerta de estilo japonés"
+  },
+  {
+    "anverso": "",
+    "reverso": "ドア",
+    "reverso2": "Puerta de estilo occidental"
+  },
+  {
+    "anverso": "",
+    "reverso": "トイレ",
+    "reverso2": "baño"
+  },
+  {
+    "anverso": "",
+    "reverso": "どう",
+    "reverso2": "cómo cómo"
+  },
+  {
+    "anverso": "",
+    "reverso": "どうして",
+    "reverso2": "porque razón"
+  },
+  {
+    "anverso": "",
+    "reverso": "どうぞ",
+    "reverso2": "Por favor"
+  },
+  {
+    "anverso": "動物",
+    "reverso": "どうぶつ",
+    "reverso2": "animal"
+  },
+  {
+    "anverso": "",
+    "reverso": "どうも",
+    "reverso2": "gracias hola"
+  },
+  {
+    "anverso": "遠い",
+    "reverso": "とおい",
+    "reverso2": "lejos"
+  },
+  {
+    "anverso": "十日",
+    "reverso": "とおか",
+    "reverso2": "diez días, el décimo día"
+  },
+  {
+    "anverso": "時々",
+    "reverso": "ときどき",
+    "reverso2": "a veces"
+  },
+  {
+    "anverso": "時計",
+    "reverso": "とけい",
+    "reverso2": "reloj, reloj"
+  },
+  {
+    "anverso": "",
+    "reverso": "どこ",
+    "reverso2": "Dónde"
+  },
+  {
+    "anverso": "所",
+    "reverso": "ところ",
+    "reverso2": "sitio"
+  },
+  {
+    "anverso": "年",
+    "reverso": "とし",
+    "reverso2": "año"
+  },
+  {
+    "anverso": "図書館",
+    "reverso": "としょかん",
+    "reverso2": "biblioteca"
+  },
+  {
+    "anverso": "",
+    "reverso": "どちら",
+    "reverso2": "cuál de los dos"
+  },
+  {
+    "anverso": "",
+    "reverso": "どっち",
+    "reverso2": "cual"
+  },
+  {
+    "anverso": "",
+    "reverso": "とても",
+    "reverso2": "muy"
+  },
+  {
+    "anverso": "",
+    "reverso": "どなた",
+    "reverso2": "OMS"
+  },
+  {
+    "anverso": "隣",
+    "reverso": "となり",
+    "reverso2": "al lado"
+  },
+  {
+    "anverso": "",
+    "reverso": "どの",
+    "reverso2": "cual"
+  },
+  {
+    "anverso": "飛ぶ",
+    "reverso": "とぶ",
+    "reverso2": "volar"
+  },
+  {
+    "anverso": "止まる",
+    "reverso": "とまる",
+    "reverso2": "Detener"
+  },
+  {
+    "anverso": "友達",
+    "reverso": "ともだち",
+    "reverso2": "amigos"
+  },
+  {
+    "anverso": "土曜日",
+    "reverso": "どようび",
+    "reverso2": "sábado"
+  },
+  {
+    "anverso": "鳥",
+    "reverso": "とり",
+    "reverso2": "Pájaro"
+  },
+  {
+    "anverso": "とり肉",
+    "reverso": "とりにく",
+    "reverso2": "carne de pollo (aves)"
+  },
+  {
+    "anverso": "取る",
+    "reverso": "とる",
+    "reverso2": "Toma, toma"
+  },
+  {
+    "anverso": "撮る",
+    "reverso": "とる",
+    "reverso2": "tomar una foto, grabar"
+  },
+  {
+    "anverso": "",
+    "reverso": "どれ",
+    "reverso2": "que (tres o más)"
+  },
+  {
+    "anverso": "",
+    "reverso": "ナイフ",
+    "reverso2": "Cuchillo"
+  },
+  {
+    "anverso": "中",
+    "reverso": "なか",
+    "reverso2": "centro medio"
+  },
+  {
+    "anverso": "長い",
+    "reverso": "ながい",
+    "reverso2": "grande, largo, largo"
+  },
+  {
+    "anverso": "鳴く",
+    "reverso": "なく",
+    "reverso2": "ruido, grito, pío animal"
+  },
+  {
+    "anverso": "無くす",
+    "reverso": "なくす",
+    "reverso2": "perder"
+  },
+  {
+    "anverso": "",
+    "reverso": "なぜ",
+    "reverso2": "porque"
+  },
+  {
+    "anverso": "夏",
+    "reverso": "なつ",
+    "reverso2": "verano"
+  },
+  {
+    "anverso": "夏休み",
+    "reverso": "なつやすみ",
+    "reverso2": "vacaciones de verano"
+  },
+  {
+    "anverso": "七つ",
+    "reverso": "ななつ",
+    "reverso2": "Siete"
+  },
+  {
+    "anverso": "七日",
+    "reverso": "なのか",
+    "reverso2": "siete días, el séptimo día"
+  },
+  {
+    "anverso": "名前",
+    "reverso": "なまえ",
+    "reverso2": "nombre"
+  },
+  {
+    "anverso": "習う",
+    "reverso": "ならう",
+    "reverso2": "aprender"
+  },
+  {
+    "anverso": "並ぶ",
+    "reverso": "ならぶ",
+    "reverso2": "alinear, hacer cola"
+  },
+  {
+    "anverso": "並べる",
+    "reverso": "ならべる",
+    "reverso2": "alinear., cola (objetos)"
+  },
+  {
+    "anverso": "",
+    "reverso": "なる",
+    "reverso2": "volverse"
+  },
+  {
+    "anverso": "何",
+    "reverso": "なん / なに",
+    "reverso2": "Qué"
+  },
+  {
+    "anverso": "二",
+    "reverso": "に",
+    "reverso2": "dos"
+  },
+  {
+    "anverso": "賑やか",
+    "reverso": "にぎやか",
+    "reverso2": "bullicioso, ocupado, lleno de gente"
+  },
+  {
+    "anverso": "肉",
+    "reverso": "にく",
+    "reverso2": "carne de vaca"
+  },
+  {
+    "anverso": "西",
+    "reverso": "にし",
+    "reverso2": "Oeste"
+  },
+  {
+    "anverso": "日曜日",
+    "reverso": "にちようび",
+    "reverso2": "domingo"
+  },
+  {
+    "anverso": "荷物",
+    "reverso": "にもつ",
+    "reverso2": "equipaje"
+  },
+  {
+    "anverso": "",
+    "reverso": "ニュース",
+    "reverso2": "Noticias"
+  },
+  {
+    "anverso": "庭",
+    "reverso": "にわ",
+    "reverso2": "jardín"
+  },
+  {
+    "anverso": "脱ぐ",
+    "reverso": "ぬぐ",
+    "reverso2": "desvestirse, desvestirse"
+  },
+  {
+    "anverso": "温い",
+    "reverso": "ぬるい",
+    "reverso2": "calentar"
+  },
+  {
+    "anverso": "",
+    "reverso": "ネクタイ",
+    "reverso2": "corbata"
+  },
+  {
+    "anverso": "猫",
+    "reverso": "ねこ",
+    "reverso2": "gato"
+  },
+  {
+    "anverso": "寝る",
+    "reverso": "ねる",
+    "reverso2": "dormir, ir a la cama"
+  },
+  {
+    "anverso": "",
+    "reverso": "ノート",
+    "reverso2": "cuaderno"
+  },
+  {
+    "anverso": "登る",
+    "reverso": "のぼる",
+    "reverso2": "escalar, escalar"
+  },
+  {
+    "anverso": "飲み物",
+    "reverso": "のみもの",
+    "reverso2": "bebida"
+  },
+  {
+    "anverso": "飲む",
+    "reverso": "のむ",
+    "reverso2": "beber"
+  },
+  {
+    "anverso": "乗る",
+    "reverso": "のる",
+    "reverso2": "montar, llegar, caminar (en bicicleta, a caballo)"
+  },
+  {
+    "anverso": "歯",
+    "reverso": "は",
+    "reverso2": "diente"
+  },
+  {
+    "anverso": "",
+    "reverso": "パーティー",
+    "reverso2": "Fiesta"
+  },
+  {
+    "anverso": "",
+    "reverso": "はい",
+    "reverso2": "sí"
+  },
+  {
+    "anverso": "灰皿",
+    "reverso": "はいざら",
+    "reverso2": "cenicero"
+  },
+  {
+    "anverso": "入る",
+    "reverso": "はいる",
+    "reverso2": "entrar, introducir"
+  },
+  {
+    "anverso": "葉書",
+    "reverso": "はがき",
+    "reverso2": "tarjeta postal"
+  },
+  {
+    "anverso": "",
+    "reverso": "はく",
+    "reverso2": "ponte, ponte los pantalones"
+  },
+  {
+    "anverso": "箱",
+    "reverso": "はこ",
+    "reverso2": "Cajero"
+  },
+  {
+    "anverso": "橋",
+    "reverso": "はし",
+    "reverso2": "puente"
+  },
+  {
+    "anverso": "",
+    "reverso": "はし",
+    "reverso2": "palillos"
+  },
+  {
+    "anverso": "始まる",
+    "reverso": "はじまる",
+    "reverso2": "empezar"
+  },
+  {
+    "anverso": "初め / 始め",
+    "reverso": "はじめ",
+    "reverso2": "comenzando"
+  },
+  {
+    "anverso": "初めて",
+    "reverso": "はじめて",
+    "reverso2": "por primera vez"
+  },
+  {
+    "anverso": "走る",
+    "reverso": "はしる",
+    "reverso2": "correr"
+  },
+  {
+    "anverso": "",
+    "reverso": "バス",
+    "reverso2": "autobús"
+  },
+  {
+    "anverso": "",
+    "reverso": "バター",
+    "reverso2": "mantequilla"
+  },
+  {
+    "anverso": "二十歳",
+    "reverso": "はたち",
+    "reverso2": "20 años (edad)"
+  },
+  {
+    "anverso": "働く",
+    "reverso": "はたらく",
+    "reverso2": "trabajar"
+  },
+  {
+    "anverso": "八",
+    "reverso": "はち",
+    "reverso2": "ocho"
+  },
+  {
+    "anverso": "二十日",
+    "reverso": "はつか",
+    "reverso2": "20 días, XX"
+  },
+  {
+    "anverso": "花",
+    "reverso": "はな",
+    "reverso2": "flor"
+  },
+  {
+    "anverso": "鼻",
+    "reverso": "はな",
+    "reverso2": "nariz"
+  },
+  {
+    "anverso": "話",
+    "reverso": "はなし",
+    "reverso2": "conversación, historia"
+  },
+  {
+    "anverso": "話す",
+    "reverso": "はなす",
+    "reverso2": "hablar"
+  },
+  {
+    "anverso": "早い",
+    "reverso": "はやい",
+    "reverso2": "temprano, rápido"
+  },
+  {
+    "anverso": "速い",
+    "reverso": "はやい",
+    "reverso2": "rápido"
+  },
+  {
+    "anverso": "春",
+    "reverso": "はる",
+    "reverso2": "Primavera"
+  },
+  {
+    "anverso": "貼る",
+    "reverso": "はる",
+    "reverso2": "aplicar, perforar"
+  },
+  {
+    "anverso": "晴れ",
+    "reverso": "はれ",
+    "reverso2": "Tiempo despejado"
+  },
+  {
+    "anverso": "晴れる",
+    "reverso": "はれる",
+    "reverso2": "clima limpio, soleado"
+  },
+  {
+    "anverso": "半",
+    "reverso": "はん",
+    "reverso2": "medio"
+  },
+  {
+    "anverso": "晩",
+    "reverso": "ばん",
+    "reverso2": "noche"
+  },
+  {
+    "anverso": "",
+    "reverso": "パン",
+    "reverso2": "pan de molde"
+  },
+  {
+    "anverso": "",
+    "reverso": "ハンカチ",
+    "reverso2": "bufanda"
+  },
+  {
+    "anverso": "番号",
+    "reverso": "ばんごう",
+    "reverso2": "número"
+  },
+  {
+    "anverso": "晩御飯",
+    "reverso": "ばんごはん",
+    "reverso2": "cena, cena"
+  },
+  {
+    "anverso": "半分",
+    "reverso": "はんぶん",
+    "reverso2": "medio minuto"
+  },
+  {
+    "anverso": "東",
+    "reverso": "ひがし",
+    "reverso2": "este"
+  },
+  {
+    "anverso": "引く",
+    "reverso": "ひく",
+    "reverso2": "tirar"
+  },
+  {
+    "anverso": "弾く",
+    "reverso": "ひく",
+    "reverso2": "tocar un instrumento de cuerda, incluido el piano"
+  },
+  {
+    "anverso": "低い",
+    "reverso": "ひくい",
+    "reverso2": "corto, bajo"
+  },
+  {
+    "anverso": "飛行機",
+    "reverso": "ひこうき",
+    "reverso2": "avión"
+  },
+  {
+    "anverso": "左",
+    "reverso": "ひだり",
+    "reverso2": "izquierda"
+  },
+  {
+    "anverso": "人",
+    "reverso": "ひと",
+    "reverso2": "persona"
+  },
+  {
+    "anverso": "一つ",
+    "reverso": "ひとつ",
+    "reverso2": "uno"
+  },
+  {
+    "anverso": "一月",
+    "reverso": "ひとつき",
+    "reverso2": "un mes"
+  },
+  {
+    "anverso": "一人",
+    "reverso": "ひとり",
+    "reverso2": "una persona"
+  },
+  {
+    "anverso": "暇",
+    "reverso": "ひま",
+    "reverso2": "Tiempo libre"
+  },
+  {
+    "anverso": "百",
+    "reverso": "ひゃく",
+    "reverso2": "cien"
+  },
+  {
+    "anverso": "病院",
+    "reverso": "びょういん",
+    "reverso2": "hospital"
+  },
+  {
+    "anverso": "病気",
+    "reverso": "びょうき",
+    "reverso2": "enfermedad"
+  },
+  {
+    "anverso": "昼",
+    "reverso": "ひる",
+    "reverso2": "mediodía, día"
+  },
+  {
+    "anverso": "昼御飯",
+    "reverso": "ひるごはん",
+    "reverso2": "almuerzo"
+  },
+  {
+    "anverso": "広い",
+    "reverso": "ひろい",
+    "reverso2": "amplio, espacioso, amplio"
+  },
+  {
+    "anverso": "",
+    "reverso": "フィルム",
+    "reverso2": "Rollo de pelicula"
+  },
+  {
+    "anverso": "封筒",
+    "reverso": "ふうとう",
+    "reverso2": "sobre"
+  },
+  {
+    "anverso": "",
+    "reverso": "プール",
+    "reverso2": "piscina"
+  },
+  {
+    "anverso": "",
+    "reverso": "フォーク",
+    "reverso2": "tenedor"
+  },
+  {
+    "anverso": "吹く",
+    "reverso": "ふく",
+    "reverso2": "soplo"
+  },
+  {
+    "anverso": "服",
+    "reverso": "ふく",
+    "reverso2": "ropa"
+  },
+  {
+    "anverso": "二つ",
+    "reverso": "ふたつ",
+    "reverso2": "dos"
+  },
+  {
+    "anverso": "豚肉",
+    "reverso": "ぶたにく",
+    "reverso2": "carne de puerco"
+  },
+  {
+    "anverso": "二人",
+    "reverso": "ふたり",
+    "reverso2": "dos personas"
+  },
+  {
+    "anverso": "二日",
+    "reverso": "ふつか",
+    "reverso2": "dos días, el segundo día del mes"
+  },
+  {
+    "anverso": "太い",
+    "reverso": "ふとい",
+    "reverso2": "gordo, grueso"
+  },
+  {
+    "anverso": "冬",
+    "reverso": "ふゆ",
+    "reverso2": "Invierno"
+  },
+  {
+    "anverso": "降る",
+    "reverso": "ふる",
+    "reverso2": "otoño, lluvia y nieve"
+  },
+  {
+    "anverso": "古い",
+    "reverso": "ふるい",
+    "reverso2": "viejo, viejo, viejo (no se usa para personas)"
+  },
+  {
+    "anverso": "",
+    "reverso": "ふろ",
+    "reverso2": "ducha"
+  },
+  {
+    "anverso": "文章",
+    "reverso": "ぶんしょう",
+    "reverso2": "frase, texto, artículo"
+  },
+  {
+    "anverso": "",
+    "reverso": "ページ",
+    "reverso2": "página"
+  },
+  {
+    "anverso": "下手",
+    "reverso": "へた",
+    "reverso2": "pobre, no calificado, no calificado, lento"
+  },
+  {
+    "anverso": "",
+    "reverso": "ベッド",
+    "reverso2": "cama"
+  },
+  {
+    "anverso": "",
+    "reverso": "ペット",
+    "reverso2": "animal de estimación"
+  },
+  {
+    "anverso": "部屋",
+    "reverso": "へや",
+    "reverso2": "Cuarto"
+  },
+  {
+    "anverso": "辺",
+    "reverso": "へん",
+    "reverso2": "zona"
+  },
+  {
+    "anverso": "",
+    "reverso": "ペン",
+    "reverso2": "bolígrafo"
+  },
+  {
+    "anverso": "勉強",
+    "reverso": "べんきょうする",
+    "reverso2": "para estudiar"
+  },
+  {
+    "anverso": "便利",
+    "reverso": "べんり",
+    "reverso2": "útil, práctico"
+  },
+  {
+    "anverso": "帽子",
+    "reverso": "ぼうし",
+    "reverso2": "sombrero"
+  },
+  {
+    "anverso": "",
+    "reverso": "ボールペン",
+    "reverso2": "bolígrafo"
+  },
+  {
+    "anverso": "",
+    "reverso": "ほか",
+    "reverso2": "otro, el resto"
+  },
+  {
+    "anverso": "",
+    "reverso": "ポケット",
+    "reverso2": "bolsillo"
+  },
+  {
+    "anverso": "欲しい",
+    "reverso": "ほしい",
+    "reverso2": "necesito querer"
+  },
+  {
+    "anverso": "",
+    "reverso": "ポスト",
+    "reverso2": "enviar"
+  },
+  {
+    "anverso": "細い",
+    "reverso": "ほそい",
+    "reverso2": "Delgado"
+  },
+  {
+    "anverso": "",
+    "reverso": "ボタン",
+    "reverso2": "botón"
+  },
+  {
+    "anverso": "",
+    "reverso": "ホテル",
+    "reverso2": "Hotel"
+  },
+  {
+    "anverso": "本",
+    "reverso": "ほん",
+    "reverso2": "libro"
+  },
+  {
+    "anverso": "本棚",
+    "reverso": "ほんだな",
+    "reverso2": "estantes de libros"
+  },
+  {
+    "anverso": "",
+    "reverso": "ほんとう",
+    "reverso2": "verdad"
+  },
+  {
+    "anverso": "毎朝",
+    "reverso": "まいあさ",
+    "reverso2": "toda la mañana"
+  },
+  {
+    "anverso": "毎月",
+    "reverso": "まいげつ / まいつき",
+    "reverso2": "cada mes"
+  },
+  {
+    "anverso": "毎週",
+    "reverso": "まいしゅう",
+    "reverso2": "toda la semana"
+  },
+  {
+    "anverso": "毎日",
+    "reverso": "まいにち",
+    "reverso2": "Todos los días"
+  },
+  {
+    "anverso": "毎年",
+    "reverso": "まいねん / まいとし",
+    "reverso2": "todo el año"
+  },
+  {
+    "anverso": "毎晩",
+    "reverso": "まいばん",
+    "reverso2": "toda la noche"
+  },
+  {
+    "anverso": "前",
+    "reverso": "まえ",
+    "reverso2": "antes, detrás"
+  },
+  {
+    "anverso": "曲る",
+    "reverso": "まがる",
+    "reverso2": "doblar, flexionar"
+  },
+  {
+    "anverso": "",
+    "reverso": "まずい",
+    "reverso2": "asqueroso, malo, desagradable (comida)"
+  },
+  {
+    "anverso": "",
+    "reverso": "また",
+    "reverso2": "de nuevo y"
+  },
+  {
+    "anverso": "",
+    "reverso": "まだ",
+    "reverso2": "todavía así"
+  },
+  {
+    "anverso": "町",
+    "reverso": "まち",
+    "reverso2": "Ciudad"
+  },
+  {
+    "anverso": "待つ",
+    "reverso": "まつ",
+    "reverso2": "Espere"
+  },
+  {
+    "anverso": "",
+    "reverso": "まっすぐ",
+    "reverso2": "adelante, recto"
+  },
+  {
+    "anverso": "",
+    "reverso": "マッチ",
+    "reverso2": "Partido"
+  },
+  {
+    "anverso": "窓",
+    "reverso": "まど",
+    "reverso2": "ventana"
+  },
+  {
+    "anverso": "丸い / 円い",
+    "reverso": "まるい",
+    "reverso2": "redondo, circular"
+  },
+  {
+    "anverso": "万",
+    "reverso": "まん",
+    "reverso2": "diez mil"
+  },
+  {
+    "anverso": "万年筆",
+    "reverso": "まんねんひつ",
+    "reverso2": "pluma fuente"
+  },
+  {
+    "anverso": "磨く",
+    "reverso": "みがく",
+    "reverso2": "cepillarse los dientes, lustrar, lustrar zapatos"
+  },
+  {
+    "anverso": "右",
+    "reverso": "みぎ",
+    "reverso2": "derecho"
+  },
+  {
+    "anverso": "短い",
+    "reverso": "みじかい",
+    "reverso2": "corto, bajo"
+  },
+  {
+    "anverso": "水",
+    "reverso": "みず",
+    "reverso2": "Agua"
+  },
+  {
+    "anverso": "店",
+    "reverso": "みせ",
+    "reverso2": "Tienda"
+  },
+  {
+    "anverso": "見せる",
+    "reverso": "みせる",
+    "reverso2": "mostrar"
+  },
+  {
+    "anverso": "道",
+    "reverso": "みち",
+    "reverso2": "calle, camino, camino"
+  },
+  {
+    "anverso": "三日",
+    "reverso": "みっか",
+    "reverso2": "tres días, tercer día del mes"
+  },
+  {
+    "anverso": "三つ",
+    "reverso": "みっつ",
+    "reverso2": "Tres"
+  },
+  {
+    "anverso": "緑",
+    "reverso": "みどり",
+    "reverso2": "verde"
+  },
+  {
+    "anverso": "皆さん",
+    "reverso": "みなさん",
+    "reverso2": "todo el mundo (presente), personal"
+  },
+  {
+    "anverso": "南",
+    "reverso": "みなみ",
+    "reverso2": "sur"
+  },
+  {
+    "anverso": "耳",
+    "reverso": "みみ",
+    "reverso2": "oreja"
+  },
+  {
+    "anverso": "見る / 観る",
+    "reverso": "みる",
+    "reverso2": "mira, mira, mira"
+  },
+  {
+    "anverso": "皆",
+    "reverso": "みんな",
+    "reverso2": "todo el mundo (presente), personal"
+  },
+  {
+    "anverso": "六日",
+    "reverso": "むいか",
+    "reverso2": "seis días, sexto día del mes"
+  },
+  {
+    "anverso": "向こう",
+    "reverso": "むこう",
+    "reverso2": "más allá"
+  },
+  {
+    "anverso": "難しい",
+    "reverso": "むずかしい",
+    "reverso2": "difícil"
+  },
+  {
+    "anverso": "六つ",
+    "reverso": "むっつ",
+    "reverso2": "seis"
+  },
+  {
+    "anverso": "村",
+    "reverso": "むら",
+    "reverso2": "pueblo, pueblo"
+  },
+  {
+    "anverso": "目",
+    "reverso": "め",
+    "reverso2": "ojo"
+  },
+  {
+    "anverso": "",
+    "reverso": "メートル",
+    "reverso2": "metro metro"
+  },
+  {
+    "anverso": "眼鏡",
+    "reverso": "めがね",
+    "reverso2": "gafas"
+  },
+  {
+    "anverso": "",
+    "reverso": "もう",
+    "reverso2": "ya"
+  },
+  {
+    "anverso": "もう一度",
+    "reverso": "もういちど",
+    "reverso2": "otra vez"
+  },
+  {
+    "anverso": "木曜日",
+    "reverso": "もくようび",
+    "reverso2": "Jueves"
+  },
+  {
+    "anverso": "持つ",
+    "reverso": "もつ",
+    "reverso2": "sostener"
+  },
+  {
+    "anverso": "",
+    "reverso": "もっと",
+    "reverso2": "Más"
+  },
+  {
+    "anverso": "物",
+    "reverso": "もの",
+    "reverso2": "cosa"
+  },
+  {
+    "anverso": "門",
+    "reverso": "もん",
+    "reverso2": "portón"
+  },
+  {
+    "anverso": "問題",
+    "reverso": "もんだい",
+    "reverso2": "problema"
+  },
+  {
+    "anverso": "八百屋",
+    "reverso": "やおや",
+    "reverso2": "verdulero"
+  },
+  {
+    "anverso": "野菜",
+    "reverso": "やさい",
+    "reverso2": "vegetal"
+  },
+  {
+    "anverso": "易しい",
+    "reverso": "やさしい",
+    "reverso2": "facil, simple"
+  },
+  {
+    "anverso": "安い",
+    "reverso": "やすい",
+    "reverso2": "barato"
+  },
+  {
+    "anverso": "休み",
+    "reverso": "やすみ",
+    "reverso2": "Descansar de vacaciones"
+  },
+  {
+    "anverso": "休む",
+    "reverso": "やすむ",
+    "reverso2": "descanso"
+  },
+  {
+    "anverso": "八つ",
+    "reverso": "やっつ",
+    "reverso2": "ocho"
+  },
+  {
+    "anverso": "山",
+    "reverso": "やま",
+    "reverso2": "Montaña"
+  },
+  {
+    "anverso": "",
+    "reverso": "やる",
+    "reverso2": "hacer"
+  },
+  {
+    "anverso": "夕方",
+    "reverso": "ゆうがた",
+    "reverso2": "noche"
+  },
+  {
+    "anverso": "夕飯",
+    "reverso": "ゆうはん",
+    "reverso2": "cena"
+  },
+  {
+    "anverso": "郵便局",
+    "reverso": "ゆうびんきょく",
+    "reverso2": "Agencia de correo"
+  },
+  {
+    "anverso": "昨夜",
+    "reverso": "ゆうべ",
+    "reverso2": "ayer en la noche"
+  },
+  {
+    "anverso": "有名",
+    "reverso": "ゆうめい",
+    "reverso2": "famoso"
+  },
+  {
+    "anverso": "雪",
+    "reverso": "ゆき",
+    "reverso2": "nieve"
+  },
+  {
+    "anverso": "行く",
+    "reverso": "ゆく",
+    "reverso2": "Vamos"
+  },
+  {
+    "anverso": "",
+    "reverso": "ゆっくりと",
+    "reverso2": "despacio"
+  },
+  {
+    "anverso": "八日",
+    "reverso": "ようか",
+    "reverso2": "ocho días, octavo día del mes"
+  },
+  {
+    "anverso": "洋服",
+    "reverso": "ようふく",
+    "reverso2": "ropa de estilo occidental"
+  },
+  {
+    "anverso": "",
+    "reverso": "よく",
+    "reverso2": "a menudo, bueno"
+  },
+  {
+    "anverso": "横",
+    "reverso": "よこ",
+    "reverso2": "lado, lado, ancho"
+  },
+  {
+    "anverso": "四日",
+    "reverso": "よっか",
+    "reverso2": "cuatro días, cuarto día del mes"
+  },
+  {
+    "anverso": "四つ",
+    "reverso": "よっつ",
+    "reverso2": "cuatro"
+  },
+  {
+    "anverso": "呼ぶ",
+    "reverso": "よぶ",
+    "reverso2": "llamar, invitar"
+  },
+  {
+    "anverso": "読む",
+    "reverso": "よむ",
+    "reverso2": "leer"
+  },
+  {
+    "anverso": "夜",
+    "reverso": "よる",
+    "reverso2": "buenas noches"
+  },
+  {
+    "anverso": "弱い",
+    "reverso": "よわい",
+    "reverso2": "débiles"
+  },
+  {
+    "anverso": "来月",
+    "reverso": "らいげつ",
+    "reverso2": "el mes que viene"
+  },
+  {
+    "anverso": "来週",
+    "reverso": "らいしゅう",
+    "reverso2": "próxima semana"
+  },
+  {
+    "anverso": "来年",
+    "reverso": "らいねん",
+    "reverso2": "Próximo año"
+  },
+  {
+    "anverso": "",
+    "reverso": "ラジオ",
+    "reverso2": "radio"
+  },
+  {
+    "anverso": "",
+    "reverso": "ラジカセ / ラジオカセット",
+    "reverso2": "reproductor de casetes de radio"
+  },
+  {
+    "anverso": "",
+    "reverso": "りっぱ",
+    "reverso2": "espléndido"
+  },
+  {
+    "anverso": "留学生",
+    "reverso": "りゅうがくせい",
+    "reverso2": "estudiante extranjero"
+  },
+  {
+    "anverso": "両親",
+    "reverso": "りょうしん",
+    "reverso2": "padres (ambos)"
+  },
+  {
+    "anverso": "料理",
+    "reverso": "りょうり",
+    "reverso2": "cocina"
+  },
+  {
+    "anverso": "旅行",
+    "reverso": "りょこう",
+    "reverso2": "viaje"
+  },
+  {
+    "anverso": "零",
+    "reverso": "れい",
+    "reverso2": "cero"
+  },
+  {
+    "anverso": "冷蔵庫",
+    "reverso": "れいぞうこ",
+    "reverso2": "refrigerador"
+  },
+  {
+    "anverso": "",
+    "reverso": "レコード",
+    "reverso2": "grabar"
+  },
+  {
+    "anverso": "",
+    "reverso": "レストラン",
+    "reverso2": "restaurante"
+  },
+  {
+    "anverso": "練習",
+    "reverso": "れんしゅうする",
+    "reverso2": "práctica"
+  },
+  {
+    "anverso": "廊下",
+    "reverso": "ろうか",
+    "reverso2": "sala"
+  },
+  {
+    "anverso": "六",
+    "reverso": "ろく",
+    "reverso2": "seis"
+  },
+  {
+    "anverso": "",
+    "reverso": "ワイシャツ",
+    "reverso2": "camisa de negocios"
+  },
+  {
+    "anverso": "若い",
+    "reverso": "わかい",
+    "reverso2": "joven"
+  },
+  {
+    "anverso": "分かる",
+    "reverso": "わかる",
+    "reverso2": "entender"
+  },
+  {
+    "anverso": "忘れる",
+    "reverso": "わすれる",
+    "reverso2": "olvidar"
+  },
+  {
+    "anverso": "私",
+    "reverso": "わたくし",
+    "reverso2": "Yo mismo"
+  },
+  {
+    "anverso": "私",
+    "reverso": "わたし",
+    "reverso2": "Yo mismo"
+  },
+  {
+    "anverso": "渡す",
+    "reverso": "わたす",
+    "reverso2": "entregar"
+  },
+  {
+    "anverso": "渡る",
+    "reverso": "わたる",
+    "reverso2": "ir en frente"
+  },
+  {
+    "anverso": "悪い",
+    "reverso": "わるい",
+    "reverso2": "malo"
+  },
+  {
+    "anverso": "",
+    "reverso": "より,ほう",
+    "reverso2": "Se usa para comparar."
+  }
 ]
