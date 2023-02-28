@@ -22,10 +22,12 @@
  {
    "anverso": "12+2",
    "reverso": "14",
-   "reverso2": "become"
+   "reverso2": ""
  },
  {
    "anverso": "√2",
-   "reverso": "1.41"
+   "reverso": "1.41",
+   "reverso2": ""
+
  }
 ]
