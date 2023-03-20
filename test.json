@@ -27,5 +27,10 @@
  {
    "anverso": "√2",
    "reverso": "1.41"
+ },
+  {
+   "anverso": "兎",
+   "reverso": "Rabbit, hare",
+   "reverso2": "うさぎ"
  }
 ]
