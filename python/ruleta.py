@@ -20,16 +20,16 @@ def clear_screen():
 def menu(opt):
     second_opt = 0
     while(not opt in range(1,10)):
-        print("1) Casilla única: [X 36]\n")
-        print("2) 2 Casillas: [X 17]\n")
-        print("3) Fila (3 casillas): [X 11] \n")
-        print("4) Cuadro (4 casillas): [X 6] \n")
-        print("5) 6 casillas: [X 5] \n")
-        print("6) Color: [X 1] \n")
-        print("7) Par/Impar: [X 1] \n")
-        print("8) Alto/Bajo: [X 1] \n")
-        print("9) Docenas: [X 2] \n")
-        print("10) Columans: [X 2]\n")
+        print("1) Casilla única: [X 36]")
+        print("2) 2 Casillas: [X 17]")
+        print("3) Fila (3 casillas): [X 11] ")
+        print("4) Cuadro (4 casillas): [X 6] ")
+        print("5) 6 casillas: [X 5] ")
+        print("6) Color: [X 1] ")
+        print("7) Par/Impar: [X 1] ")
+        print("8) Alto/Bajo: [X 1] ")
+        print("9) Docenas: [X 2] ")
+        print("10) Columans: [X 2]")
 
     #Apuesta a color (rojo/negro): Apostar a que la bola caerá en un número de un color específico. Pago: 1 a 1.
     #Apuesta a par/impar: Apostar a que la bola caerá en un número par o impar. Pago: 1 a 1.
@@ -95,63 +95,65 @@ multiplicador = [36, 17, 11, 6, 5, 1, 1, 1, 2, 2]
 
 
 clear_screen()
-print(ruleta_americana)
+#print(ruleta_americana)
 
 
 bet = 1000
-opt = 0
-
-while not opt_bet in [1, bet]:
-    opt_bet = int(input("Selecciona una opción:\t"))
-    bet -= opt_bet
-
-
-
-
-second_opt = menu(opt)
+while bet > 0:
+  opt = 0
+  opt_bet = 0
+  while opt_bet > bet or  opt_bet < 1:
+      opt_bet = int(input("Selecciona una apuesta (teienes "+str(bet)+"):\t"))
+  bet -= opt_bet
 
 
-numero_aleatorio = random.choice(list(ruleta_americana.keys()))
-color_aleatorio = ruleta_americana[numero_aleatorio]
-print(f"Número aleatorio: {numero_aleatorio}, Color: {color_aleatorio}")
 
-flag_win = False
 
-if second_opt == "Rojo":
-  if color_aleatorio == "R":
-    flag_win = True
-elif second_opt == "Negro":
-  if color_aleatorio == "N":
-    flag_win = True
+  second_opt = menu(opt)
 
-elif second_opt == "Par":
-  if not color_aleatorio == "V" and int(numero_aleatorio)%2 == 0:
-    flag_win = True
-elif second_opt == "Impar":
-  if int(numero_aleatorio)%2 == 1:
-    flag_win = True
-elif second_opt == "1-18":
-  if int(numero_aleatorio) >= 1 and int(numero_aleatorio) <= 18:
-    flag_win = True
-elif second_opt == "19-36":
-  if int(numero_aleatorio) >= 19:
-    flag_win = True
 
-elif second_opt == "1-12":
-  if int(numero_aleatorio) >= 1 and int(numero_aleatorio) <= 12:
-    flag_win = True
-elif second_opt == "13-24":
-  if int(numero_aleatorio) >= 13 and int(numero_aleatorio) <= 24:
-    flag_win = True
-elif second_opt == "25-36":
-  if int(numero_aleatorio) >= 25:
-    flag_win = True
-else:
-  if numero_aleatorio in second_opt or numero_aleatorio == second_opt:
-    flag_win = True
+  numero_aleatorio = random.choice(list(ruleta_americana.keys()))
+  color_aleatorio = ruleta_americana[numero_aleatorio]
+  print(f"Número aleatorio: {numero_aleatorio}, Color: {color_aleatorio}")
 
-if flag_win == True:
-  print("Ganaste: "+str(opt_bet * multiplicador[opt-1]))
-  bet +=  opt_bet * multiplicador[opt-1]
+  flag_win = False
 
+  if second_opt == "Rojo":
+    if color_aleatorio == "R":
+      flag_win = True
+  elif second_opt == "Negro":
+    if color_aleatorio == "N":
+      flag_win = True
+
+  elif second_opt == "Par":
+    if not color_aleatorio == "V" and int(numero_aleatorio)%2 == 0:
+      flag_win = True
+  elif second_opt == "Impar":
+    if int(numero_aleatorio)%2 == 1:
+      flag_win = True
+  elif second_opt == "1-18":
+    if int(numero_aleatorio) >= 1 and int(numero_aleatorio) <= 18:
+      flag_win = True
+  elif second_opt == "19-36":
+    if int(numero_aleatorio) >= 19:
+      flag_win = True
+
+  elif second_opt == "1-12":
+    if int(numero_aleatorio) >= 1 and int(numero_aleatorio) <= 12:
+      flag_win = True
+  elif second_opt == "13-24":
+    if int(numero_aleatorio) >= 13 and int(numero_aleatorio) <= 24:
+      flag_win = True
+  elif second_opt == "25-36":
+    if int(numero_aleatorio) >= 25:
+      flag_win = True
+  else:
+    if numero_aleatorio in second_opt or numero_aleatorio == second_opt:
+      flag_win = True
+
+  if flag_win == True:
+    print("Ganaste: "+str(opt_bet * multiplicador[opt-1]))
+    bet +=  opt_bet * multiplicador[opt-1]
+  else:
+    print("La casa gana....")
 
